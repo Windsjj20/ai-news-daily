@@ -72,6 +72,14 @@ def build_site():
 
     print(f"✅ 网站生成完毕 → {OUTPUT_DIR}/")
     print(f"   📊 共 {len(history)} 篇文章，今日 {len(today_articles)} 篇")
+
+    # 同步到项目根目录（Vercel 部署用）
+    root_dir = os.path.join(BASE_DIR, "..")
+    for f in ["index.html", "data.json", "version.json"]:
+        src = os.path.join(OUTPUT_DIR, f)
+        dst = os.path.join(root_dir, f)
+        shutil.copy2(src, dst)
+    print(f"🔁 已同步到根目录（Vercel 部署）")
     return True
 
 def clean_site(before_date: str) -> int:

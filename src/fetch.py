@@ -121,12 +121,79 @@ def fetch_rss(source, max_items=10) -> list[dict]:
     print(f"    ✓ {source.name}: {len(items)} 篇")
     return items
 
+def fetch_wp_json(source, max_items=10) -> list[dict]:
+    """通过 WordPress REST API 采集（RSS 失效时的后备方案）"""
+    import json
+    api_url = source.url.rstrip("/") + "/wp-json/wp/v2/posts?per_page=" + str(max_items) + "&_embed"
+    html = fetch_url(api_url)
+    if not html:
+        print(f"  ❌ {source.name}: API 请求失败")
+        return []
+    try:
+        posts = json.loads(html)
+    except json.JSONDecodeError:
+        print(f"  ❌ {source.name}: JSON 解析失败")
+        return []
+    if not isinstance(posts, list):
+        print(f"  ❌ {source.name}: 非预期返回格式")
+        return []
+    
+    items = []
+    for p in posts:
+        title = p.get("title", {}).get("rendered", "") or ""
+        title = clean_html(title).strip()
+        if not title:
+            continue
+        link = p.get("link", "") or ""
+        summary = p.get("excerpt", {}).get("rendered", "") or ""
+        summary = clean_html(summary)[:300]
+        date = (p.get("date") or "")[:10]
+        
+        # 尝试取特色图片
+        image = ""
+        embedded = p.get("_embed", {})
+        wpmedia = embedded.get("wp:featuredmedia", [])
+        if wpmedia:
+            media_urls = wpmedia[0].get("source_url", "") or \
+                         wpmedia[0].get("media_details", {}).get("sizes", {}).get("medium", {}).get("source_url", "") or ""
+            if media_urls:
+                image = media_urls
+        
+        item_id = hashlib.md5(link.encode()).hexdigest()[:12]
+        items.append({
+            "id": item_id,
+            "title": title,
+            "link": link,
+            "summary": summary,
+            "source": source.name,
+            "region": source.region,
+            "lang": source.lang,
+            "tags": list(source.tags),
+            "image": image,
+            "pub_date": date,
+            "fetched_at": datetime.now().strftime("%Y-%m-%d %H:%M"),
+        })
+    
+    print(f"    ✓ {source.name}: {len(items)} 篇 (WP-API)")
+    return items
+
+
+def fetch_source(source, max_items=10) -> list[dict]:
+    """尝试 RSS 采集，失败则回退到 WordPress REST API"""
+    items = fetch_rss(source, max_items)
+    if items:
+        return items
+    # RSS 失败，尝试 WP REST API
+    items = fetch_wp_json(source, max_items)
+    return items
+
+
 def fetch_all() -> list[dict]:
     all_items = []
     print("🕷️ 开始采集...")
     for src in SOURCES:
         print(f"  → {src.name}")
-        items = fetch_rss(src)
+        items = fetch_source(src)
         all_items.extend(items)
         time.sleep(0.5)
     

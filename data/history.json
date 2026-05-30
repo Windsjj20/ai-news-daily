@@ -1,5 +1,22 @@
 [
   {
+    "id": "0ddc0ce05d44",
+    "title": "AI Factories: The New Infrastructure of Intelligence",
+    "link": "https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/",
+    "summary": "AI factories are token factories, converting power into intelligence in real time. And as agentic AI scales and autonomous, always-on special agents are deployed in the enterprise, performance per watt and cost per token become the economics that matter.",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Wed, 27 May 2026 16:00:36 +0000",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
     "id": "26c5841ee613",
     "title": "NVIDIA, Ineffable Intelligence Team Up to Build the Future of Reinforcement Learning Infrastructure",
     "link": "https://blogs.nvidia.com/blog/ineffable-intelligence-reinforcement-learning-infrastructure/",
@@ -32,6 +49,71 @@
     "pub_date": "Wed, 13 May 2026 13:00:10 +0000",
     "fetched_at": "2026-05-24 21:31",
     "date": "2026-05-24"
+  },
+  {
+    "id": "82b52c01ab10",
+    "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
+    "link": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/",
+    "summary": "The shift to agentic AI creates a new CPU requirement for the AI factory: fast cores, massive memory bandwidth and the ability to sustain high performance when all cores are active. Initial benchmark results published by Phoronix today show that the NVIDIA Vera CPU meets this need. For this first pu",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Tue, 26 May 2026 21:15:15 +0000",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "b920d871e577",
+    "title": "Rethinking organizational design in the age of agentic AI",
+    "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They ",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Tue, 26 May 2026 14:54:10 +0000",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "7400dc01b3a1",
+    "title": "A reality check on the AI jobs hysteria",
+    "link": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+    "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Tue, 26 May 2026 09:00:00 +0000",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "e49dc2a61c4b",
+    "title": "It’s time to address the looming crisis in entry-level work",
+    "link": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+    "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surfac",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Tue, 26 May 2026 09:00:00 +0000",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
   },
   {
     "id": "9c90e6115d71",
@@ -102,6 +184,56 @@
     "pub_date": "Tue, 12 May 2026 12:30:56 +0000",
     "fetched_at": "2026-05-24 21:31",
     "date": "2026-05-24"
+  },
+  {
+    "id": "2f29b6393442",
+    "title": "NVIDIA Research Advances Robotics From Simulation to the Real World",
+    "link": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
+    "summary": "Robotics is entering a new phase: moving from controlled demos and scripted automation toward generalizable, reliable embodied autonomy in the real world. At the International Conference on Robotics and Automation (ICRA), eight of NVIDIA Research’s 28 accepted papers show how simulation-to-real tran",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Thu, 28 May 2026 13:00:51 +0000",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "293d0267bd79",
+    "title": "The Name’s Gaming … Cloud Gaming: ‘007 First Light’ Launches on GeForce NOW",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-launch/",
+    "summary": "License to stream, shaken and stirred. GeForce NOW is dialing up the espionage with the launch of 007 First Light, letting members slip into James Bond’s reimagined origin story from almost any device — no tux or preloads required. For a limited time, the game is included with the purchase of a 12‑m",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Thu, 28 May 2026 13:00:37 +0000",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "2c6e5bbca2bc",
+    "title": "The AI Hype Index: AI gets booed in graduation season",
+    "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+    "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can&#8230;",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Thu, 28 May 2026 09:51:11 +0000",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
   },
   {
     "id": "bf40a95dd6a6",
@@ -592,6 +724,173 @@
     "date": "2026-05-24"
   },
   {
+    "id": "b1fd55fcf6dd",
+    "title": "Zig: Build System Reworked",
+    "link": "https://ziglang.org/devlog/2026/#2026-05-26",
+    "summary": "Article URL: https://ziglang.org/devlog/2026/#2026-05-26 Comments URL: https://news.ycombinator.com/item?id=48334048 Points: 5 # Comments: 1",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 08:38:28 +0000",
+    "fetched_at": "2026-05-30 17:51",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "2c45612e0301",
+    "title": "Rsync 3.4.3 has hundreds of Claude commits",
+    "link": "https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390",
+    "summary": "Article URL: https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390 Comments URL: https://news.ycombinator.com/item?id=48334021 Points: 54 # Comments: 39",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 08:32:57 +0000",
+    "fetched_at": "2026-05-30 17:51",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "572e367e213d",
+    "title": "Iron-rich immune cells help homing pigeons navigate",
+    "link": "https://www.science.org/content/article/mind-blowing-iron-rich-immune-cells-help-homing-pigeons-navigate",
+    "summary": "Article URL: https://www.science.org/content/article/mind-blowing-iron-rich-immune-cells-help-homing-pigeons-navigate Comments URL: https://news.ycombinator.com/item?id=48333844 Points: 25 # Comments: 1",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 08:04:57 +0000",
+    "fetched_at": "2026-05-30 17:51",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "c361de1fcb17",
+    "title": "Danish pension fund excludes SpaceX citing governance and valuation",
+    "link": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
+    "summary": "Article URL: https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/ Comments URL: https://news.ycombinator.com/item?id=48333820 Points: 75 # Comments: 35",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 08:00:20 +0000",
+    "fetched_at": "2026-05-30 17:51",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "47b812a6f550",
+    "title": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
+    "link": "https://www.qbitai.com/2026/05/426706.html",
+    "summary": "（可能是）大模型圈里最会弹钢琴的人",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 06:43:26 +0000",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "4640221a3d48",
+    "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
+    "link": "https://www.qbitai.com/2026/05/426662.html",
+    "summary": "让世界模型迈向多智能体交互仿真",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 06:33:58 +0000",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "0f840e64614d",
+    "title": "OpenRCT2 v0.5.1 \"Swamp Castle\" released Last version to support Windows 7",
+    "link": "https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released",
+    "summary": "Article URL: https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released Comments URL: https://news.ycombinator.com/item?id=48333096 Points: 15 # Comments: 5",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 06:00:32 +0000",
+    "fetched_at": "2026-05-30 17:51",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "283f003aca14",
+    "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
+    "link": "https://www.qbitai.com/2026/05/426643.html",
+    "summary": "让世界模型迈向多智能体交互仿真",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 03:17:17 +0000",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "2a64b5796418",
+    "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+    "link": "https://www.perryts.com/",
+    "summary": "Article URL: https://www.perryts.com/ Comments URL: https://news.ycombinator.com/item?id=48332151 Points: 95 # Comments: 74",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 03:14:25 +0000",
+    "fetched_at": "2026-05-30 17:51",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "bd49e6c3a604",
+    "title": "Naphtha shortages in Japan",
+    "link": "https://www.nippon.com/en/japan-data/h02783/",
+    "summary": "Article URL: https://www.nippon.com/en/japan-data/h02783/ Comments URL: https://news.ycombinator.com/item?id=48331786 Points: 114 # Comments: 76",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 02:20:40 +0000",
+    "fetched_at": "2026-05-30 17:51",
+    "date": "2026-05-30"
+  },
+  {
     "id": "32e0243942b6",
     "title": "Ferrari is using IBM’s AI to create F1 superfans",
     "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
@@ -774,6 +1073,355 @@
     "pub_date": "Mon, 18 May 2026 16:01:39 +0000",
     "fetched_at": "2026-05-24 15:47",
     "date": "2026-05-24"
+  },
+  {
+    "id": "fd1b5320312e",
+    "title": "What Is a Dickover?",
+    "link": "https://daringfireball.net/2026/05/what_is_a_dickover",
+    "summary": "Article URL: https://daringfireball.net/2026/05/what_is_a_dickover Comments URL: https://news.ycombinator.com/item?id=48330882 Points: 346 # Comments: 133",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Fri, 29 May 2026 23:54:22 +0000",
+    "fetched_at": "2026-05-30 17:51",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "a9d2d7c98471",
+    "title": "MCP is dead?",
+    "link": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+    "summary": "Article URL: https://www.quandri.io/engineering-blog/mcp-is-dead Comments URL: https://news.ycombinator.com/item?id=48330436 Points: 231 # Comments: 199",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Fri, 29 May 2026 22:56:49 +0000",
+    "fetched_at": "2026-05-30 17:51",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "5da6ab2a2b43",
+    "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+    "link": "https://github.com/secluso/core",
+    "summary": "Hey everyone,I previously introduced an open source private home security camera in 2024, which uses OpenMLS for end-to-end encryption: https://news.ycombinator.com/item?id=42284412.It was called Privastead then and it's now renamed to Secluso.John Kaczman found my project from here and has been wor",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Fri, 29 May 2026 22:32:29 +0000",
+    "fetched_at": "2026-05-30 17:51",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "62b1c2746533",
+    "title": "Coders are refusing to work without AI — and that could come back to bite them",
+    "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+    "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 29 May 2026 22:14:22 +0000",
+    "fetched_at": "2026-05-30 17:51",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "75f84cfeffeb",
+    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 29 May 2026 18:49:19 +0000",
+    "fetched_at": "2026-05-30 17:51",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "4fd5861e26d9",
+    "title": "What happens when companies become too AI-pilled?",
+    "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs i",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 29 May 2026 17:57:05 +0000",
+    "fetched_at": "2026-05-30 17:51",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "fe0f51562a56",
+    "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+    "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 29 May 2026 17:27:13 +0000",
+    "fetched_at": "2026-05-30 17:51",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "4b1d7fc08047",
+    "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+    "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+    "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 29 May 2026 16:13:47 +0000",
+    "fetched_at": "2026-05-30 17:51",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "ef53a7ec6cf6",
+    "title": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
+    "link": "https://www.qbitai.com/2026/05/426557.html",
+    "summary": "智驾出事，比亚迪兜底",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 29 May 2026 14:30:20 +0000",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "1b3d96b11fca",
+    "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
+    "summary": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 29 May 2026 14:15:00 +0000",
+    "fetched_at": "2026-05-30 17:51",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "23be547c0da8",
+    "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
+    "link": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
+    "summary": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 29 May 2026 14:00:00 +0000",
+    "fetched_at": "2026-05-30 17:51",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "f49b9b132fe5",
+    "title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
+    "link": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
+    "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs i",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 29 May 2026 14:00:00 +0000",
+    "fetched_at": "2026-05-30 17:51",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "a205088c9383",
+    "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+    "link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+    "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 29 May 2026 13:00:00 +0000",
+    "fetched_at": "2026-05-30 17:51",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "95bb06f5125a",
+    "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+    "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+    "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 29 May 2026 12:00:00 +0000",
+    "fetched_at": "2026-05-30 17:51",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "044381bf4f5c",
+    "title": "光帆科技与腾讯出行服务达成战略合作 开启新一轮预售",
+    "link": "https://www.qbitai.com/2026/05/426552.html",
+    "summary": "",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 29 May 2026 11:27:07 +0000",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "9c97485520d9",
+    "title": "PPIO入选非凡产研「2026 Global AI 100」，以AI实力领跑出海新浪潮",
+    "link": "https://www.qbitai.com/2026/05/426548.html",
+    "summary": "",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 29 May 2026 11:24:57 +0000",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "f706a3b8d9c5",
+    "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+    "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we ente",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Fri, 29 May 2026 10:00:00 +0000",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "5f87b544932d",
+    "title": "面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」",
+    "link": "https://www.qbitai.com/2026/05/426542.html",
+    "summary": "端侧 AI 是一个系统性工程",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 29 May 2026 09:13:24 +0000",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "584178770683",
+    "title": "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了",
+    "link": "https://www.qbitai.com/2026/05/426479.html",
+    "summary": "这是这个时代的印刷机",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 29 May 2026 09:05:30 +0000",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "9a3a4b99b09d",
+    "title": "下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了",
+    "link": "https://www.qbitai.com/2026/05/426447.html",
+    "summary": "下一波AI创作浪潮正在游戏领域发生",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 29 May 2026 08:50:10 +0000",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "aedac373a9b3",
+    "title": "创意设计版WorkBuddy来了！腾讯发布智能体创意工作室Miora",
+    "link": "https://www.qbitai.com/2026/05/426400.html",
+    "summary": "一个人拥有整个创意工作室",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 29 May 2026 08:32:52 +0000",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
   },
   {
     "id": "fd275f985643",
@@ -1010,5 +1658,175 @@
     "pub_date": "Fri, 15 May 2026 09:00:00 +0000",
     "fetched_at": "2026-05-24 15:47",
     "date": "2026-05-24"
+  },
+  {
+    "id": "c75f366e2ae0",
+    "title": "刚刚，Claude Opus 4.8来了！两个史上首次改写历史",
+    "link": "https://aiera.com.cn/2026/05/30/other/admin/96439/%e5%88%9a%e5%88%9a%ef%bc%8cclaude-opus-4-8%e6%9d%a5%e4%ba%86%ef%bc%81%e4%b8%a4%e4%b8%aa%e5%8f%b2%e4%b8%8a%e9%a6%96%e6%ac%a1%e6%94%b9%e5%86%99%e5%8e%86%e5%8f%b2/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】Opus 4.7发布刚43天，Opus 4.8 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-05-30",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "3bfb5ba0f305",
+    "title": "1个AI天才值1亿美元？Meta抢人不是疯，45年前一篇论文早算清了",
+    "link": "https://aiera.com.cn/2026/05/30/other/admin/96400/1%e4%b8%aaai%e5%a4%a9%e6%89%8d%e5%80%bc1%e4%ba%bf%e7%be%8e%e5%85%83%ef%bc%9fmeta%e6%8a%a2%e4%ba%ba%e4%b8%8d%e6%98%af%e7%96%af%ef%bc%8c45%e5%b9%b4%e5%89%8d%e4%b8%80%e7%af%87%e8%ae%ba%e6%96%87%e6%97%a9/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】Meta曾被曝出向OpenAI研究员开出「1亿 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-05-30",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "2e8632f99535",
+    "title": "DeepSeek狂吞17万亿Tokens？国产AI算力，最关键一战来了！",
+    "link": "https://aiera.com.cn/2026/05/30/other/admin/96386/deepseek%e7%8b%82%e5%90%9e17%e4%b8%87%e4%ba%bftokens%ef%bc%9f%e5%9b%bd%e4%ba%a7ai%e7%ae%97%e5%8a%9b%ef%bc%8c%e6%9c%80%e5%85%b3%e9%94%ae%e4%b8%80%e6%88%98%e6%9d%a5%e4%ba%86%ef%bc%81/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】DeepSeek三模型霸占OpenRouter [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-05-30",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "323f6ff3db76",
+    "title": "新智元ALL in ASI英雄帖",
+    "link": "https://aiera.com.cn/2026/05/30/other/admin/96377/%e6%96%b0%e6%99%ba%e5%85%83all-in-asi%e8%8b%b1%e9%9b%84%e5%b8%96-3/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】2026年，ASI奇点之年。全球AI竞赛进入决 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-05-30",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "a449ccfb3d0a",
+    "title": "Claude Opus 4.8实测封神！强到离谱，也贵到肉痛",
+    "link": "https://aiera.com.cn/2026/05/30/other/admin/96366/claude-opus-4-8%e5%ae%9e%e6%b5%8b%e5%b0%81%e7%a5%9e%ef%bc%81%e5%bc%ba%e5%88%b0%e7%a6%bb%e8%b0%b1%ef%bc%8c%e4%b9%9f%e8%b4%b5%e5%88%b0%e8%82%89%e7%97%9b/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】传说中的Claude Opus 4.8，性能真 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-05-30",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "78f38620d80c",
+    "title": "4大顶尖模型被扔进虚拟小镇求生！GPT全员饿死，Grok四天灭世",
+    "link": "https://aiera.com.cn/2026/05/30/other/admin/96315/4%e5%a4%a7%e9%a1%b6%e5%b0%96%e6%a8%a1%e5%9e%8b%e8%a2%ab%e6%89%94%e8%bf%9b%e8%99%9a%e6%8b%9f%e5%b0%8f%e9%95%87%e6%b1%82%e7%94%9f%ef%bc%81gpt%e5%85%a8%e5%91%98%e9%a5%bf%e6%ad%bb%ef%bc%8cgrok%e5%9b%9b/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】把当今最强的大模型扔进虚拟小镇求生，短短几天全 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-05-30",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "3694be9857df",
+    "title": "生物学变天：小扎的新开源模型，彻底掀翻谷歌AlphaFold王座！",
+    "link": "https://aiera.com.cn/2026/05/30/other/admin/96291/%e7%94%9f%e7%89%a9%e5%ad%a6%e5%8f%98%e5%a4%a9%ef%bc%9a%e5%b0%8f%e6%89%8e%e7%9a%84%e6%96%b0%e5%bc%80%e6%ba%90%e6%a8%a1%e5%9e%8b%ef%bc%8c%e5%bd%bb%e5%ba%95%e6%8e%80%e7%bf%bb%e8%b0%b7%e6%ad%8calphafold/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】AlphaFold 称霸蛋白质 AI 多年，刚 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-05-30",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "79a624166ab0",
+    "title": "终于，清华快手养出了通人性的AI！",
+    "link": "https://aiera.com.cn/2026/05/30/other/admin/96277/%e7%bb%88%e4%ba%8e%ef%bc%8c%e6%b8%85%e5%8d%8e%e5%bf%ab%e6%89%8b%e5%85%bb%e5%87%ba%e4%ba%86%e9%80%9a%e4%ba%ba%e6%80%a7%e7%9a%84ai%ef%bc%81/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】当推荐算法行业步入深度深耕阶段，行业发展全新增 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-05-30",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "26a928359b94",
+    "title": "国内首次！面壁开源千万级SFT与最大中文数据，MiniCPM5-1B底座公开",
+    "link": "https://aiera.com.cn/2026/05/30/other/admin/96268/%e5%9b%bd%e5%86%85%e9%a6%96%e6%ac%a1%ef%bc%81%e9%9d%a2%e5%a3%81%e5%bc%80%e6%ba%90%e5%8d%83%e4%b8%87%e7%ba%a7sft%e4%b8%8e%e6%9c%80%e5%a4%a7%e4%b8%ad%e6%96%87%e6%95%b0%e6%8d%ae%ef%bc%8cminicpm5-1b/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】5月25日至29日，面壁智能与OpenBMB联 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-05-30",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "1a667404b94c",
+    "title": "面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」",
+    "link": "https://aiera.com.cn/2026/05/29/other/admin/96257/%e9%9d%a2%e5%a3%81%e6%99%ba%e8%83%bd%e3%80%8c%e5%bc%80%e6%ba%90%e5%91%a8%e3%80%8d%ef%bc%9a%e4%b8%80%e5%9c%ba%e5%ae%9a%e4%b9%89%e7%ab%af%e4%be%a7-ai-%e7%bb%88%e5%b1%80%e7%9a%84%e7%b3%bb%e7%bb%9f/",
+    "summary": "5 月 25 日至 29 日，面壁智能联合 OpenBMB 开源社区，以每日发布一项关键技术成果的节奏，举办了 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-05-29",
+    "fetched_at": "2026-05-30 17:52",
+    "date": "2026-05-30"
   }
 ]

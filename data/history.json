@@ -724,6 +724,40 @@
     "date": "2026-05-24"
   },
   {
+    "id": "7004023a158b",
+    "title": "Pandoc Templates",
+    "link": "https://pandoc-templates.org/",
+    "summary": "Article URL: https://pandoc-templates.org/ Comments URL: https://news.ycombinator.com/item?id=48334515 Points: 8 # Comments: 0",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 09:56:42 +0000",
+    "fetched_at": "2026-05-30 18:55",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "dd53509ebec9",
+    "title": "The Kaiser and a \"Mediocre Man\" Theory of History",
+    "link": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
+    "summary": "Article URL: https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory Comments URL: https://news.ycombinator.com/item?id=48334283 Points: 22 # Comments: 6",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 09:18:49 +0000",
+    "fetched_at": "2026-05-30 18:55",
+    "date": "2026-05-30"
+  },
+  {
     "id": "b1fd55fcf6dd",
     "title": "Zig: Build System Reworked",
     "link": "https://ziglang.org/devlog/2026/#2026-05-26",

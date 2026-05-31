@@ -362,6 +362,39 @@
     "date": "2026-05-24"
   },
   {
+    "id": "b373372ffd82",
+    "title": "从Token无上限到全员Agent：MiniMax的AI Native组织进化实践",
+    "link": "https://www.qbitai.com/2026/05/426793.html",
+    "summary": "与其焦虑AI，不如加入AI",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sun, 31 May 2026 01:29:42 +0000",
+    "fetched_at": "2026-05-31 12:52",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "9a6e8448e035",
+    "title": "Mechanical Pencin: A website about the hidden engineering in everyday objects",
+    "link": "https://mechanical-pencil.com/",
+    "summary": "Article URL: https://mechanical-pencil.com/ Comments URL: https://news.ycombinator.com/item?id=48341932 Points: 14 # Comments: 1",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 31 May 2026 00:25:12 +0000",
+    "fetched_at": "2026-05-31 12:52",
+    "date": "2026-05-31"
+  },
+  {
     "id": "6b030c634aa7",
     "title": "Childhood Computing",
     "link": "https://susam.net/childhood-computing.html",
@@ -722,6 +755,244 @@
     "pub_date": "Sun, 10 May 2026 22:00:50 +0000",
     "fetched_at": "2026-05-24 21:31",
     "date": "2026-05-24"
+  },
+  {
+    "id": "c9362cfd1286",
+    "title": "Microsoft degrades functionality of perpetually-licensed offline products",
+    "link": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+    "summary": "Article URL: https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026) Comments URL: https://news.ycombinator.com/item?id=48341578 Points: 632 # Comments: 199",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 23:26:13 +0000",
+    "fetched_at": "2026-05-31 12:52",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "28f6c197f0a3",
+    "title": "Cheese Paper: a text editor specifically designed for writing",
+    "link": "https://brie.gay/cheese-paper/",
+    "summary": "Article URL: https://brie.gay/cheese-paper/ Comments URL: https://news.ycombinator.com/item?id=48341407 Points: 72 # Comments: 14",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 22:58:41 +0000",
+    "fetched_at": "2026-05-31 12:52",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "990eea7e86c3",
+    "title": "Shantell Sans (2023)",
+    "link": "https://shantellsans.com/process",
+    "summary": "Article URL: https://shantellsans.com/process Comments URL: https://news.ycombinator.com/item?id=48341062 Points: 140 # Comments: 16",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 22:06:38 +0000",
+    "fetched_at": "2026-05-31 12:52",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "9a8e7774d786",
+    "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
+    "link": "https://av2.aomedia.org",
+    "summary": "Article URL: https://av2.aomedia.org Comments URL: https://news.ycombinator.com/item?id=48340910 Points: 85 # Comments: 13",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 21:46:18 +0000",
+    "fetched_at": "2026-05-31 12:52",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "4f54dd187fdc",
+    "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+    "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+    "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 21:45:00 +0000",
+    "fetched_at": "2026-05-31 12:52",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "98568e56c954",
+    "title": "Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
+    "link": "https://arxiv.org/abs/2605.29135",
+    "summary": "Article URL: https://arxiv.org/abs/2605.29135 Comments URL: https://news.ycombinator.com/item?id=48340616 Points: 28 # Comments: 4",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 21:05:40 +0000",
+    "fetched_at": "2026-05-31 12:52",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "79a5ba21816c",
+    "title": "Design Engineering Magazine",
+    "link": "https://interfaces.dev/",
+    "summary": "Article URL: https://interfaces.dev/ Comments URL: https://news.ycombinator.com/item?id=48340448 Points: 72 # Comments: 6",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 20:46:54 +0000",
+    "fetched_at": "2026-05-31 12:52",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "cb18a84f3ef1",
+    "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+    "link": "https://github.com/wolfSSL/wolfCOSE",
+    "summary": "Article URL: https://github.com/wolfSSL/wolfCOSE Comments URL: https://news.ycombinator.com/item?id=48340422 Points: 75 # Comments: 14",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 20:42:28 +0000",
+    "fetched_at": "2026-05-31 12:52",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "e53b23ba2c4f",
+    "title": "Domain expertise has always been the real moat",
+    "link": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+    "summary": "Article URL: https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/ Comments URL: https://news.ycombinator.com/item?id=48340411 Points: 368 # Comments: 226",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 20:40:57 +0000",
+    "fetched_at": "2026-05-31 12:52",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "537fbfbbb87a",
+    "title": "Dusklight – GC Twilight Princess Decompiled",
+    "link": "https://twilitrealm.dev/",
+    "summary": "Article URL: https://twilitrealm.dev/ Comments URL: https://news.ycombinator.com/item?id=48340262 Points: 78 # Comments: 10",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 20:24:26 +0000",
+    "fetched_at": "2026-05-31 12:52",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "54225d41602f",
+    "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+    "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+    "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 16:30:00 +0000",
+    "fetched_at": "2026-05-31 12:52",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "361533e64698",
+    "title": "Meta is reportedly developing an AI pendant",
+    "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+    "summary": "Meta seems to be making big bets on AI-powered hardware.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 15:59:58 +0000",
+    "fetched_at": "2026-05-31 12:52",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "efe0c0c4c881",
+    "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+    "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+    "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 15:30:00 +0000",
+    "fetched_at": "2026-05-31 12:52",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "4fd271260b06",
+    "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+    "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Sat, 30 May 2026 13:00:00 +0000",
+    "fetched_at": "2026-05-31 12:52",
+    "date": "2026-05-31"
   },
   {
     "id": "7004023a158b",
@@ -1692,6 +1963,125 @@
     "pub_date": "Fri, 15 May 2026 09:00:00 +0000",
     "fetched_at": "2026-05-24 15:47",
     "date": "2026-05-24"
+  },
+  {
+    "id": "017fed59fa10",
+    "title": "李飞飞获布朗大学荣誉博士，ImageNet点燃现代AI之火",
+    "link": "https://aiera.com.cn/2026/05/31/other/admin/96559/%e6%9d%8e%e9%a3%9e%e9%a3%9e%e8%8e%b7%e5%b8%83%e6%9c%97%e5%a4%a7%e5%ad%a6%e8%8d%a3%e8%aa%89%e5%8d%9a%e5%a3%ab%ef%bc%8cimagenet%e7%82%b9%e7%87%83%e7%8e%b0%e4%bb%a3ai%e4%b9%8b%e7%81%ab/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】入选TIME 2025年度人物、斩获伊丽莎白女 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-05-31",
+    "fetched_at": "2026-05-31 12:53",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "4a7f96add417",
+    "title": "Anthropic七子一夜杀进全球富豪榜！每人身家80亿，承诺捐出80%财富",
+    "link": "https://aiera.com.cn/2026/05/31/other/admin/96545/anthropic%e4%b8%83%e5%ad%90%e4%b8%80%e5%a4%9c%e6%9d%80%e8%bf%9b%e5%85%a8%e7%90%83%e5%af%8c%e8%b1%aa%e6%a6%9c%ef%bc%81%e6%af%8f%e4%ba%ba%e8%ba%ab%e5%ae%b680%e4%ba%bf%ef%bc%8c%e6%89%bf%e8%af%ba%e6%8d%90/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】一夜之内，7个名字，同时空降全球500大富豪榜 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-05-31",
+    "fetched_at": "2026-05-31 12:53",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "3d1a6d0f587b",
+    "title": "倒反天罡，AI开始给人类打分！Claude评分标准曝光: 优秀人类得7.5分",
+    "link": "https://aiera.com.cn/2026/05/31/other/admin/96531/%e5%80%92%e5%8f%8d%e5%a4%a9%e7%bd%a1%ef%bc%8cai%e5%bc%80%e5%a7%8b%e7%bb%99%e4%ba%ba%e7%b1%bb%e6%89%93%e5%88%86%ef%bc%81claude%e8%af%84%e5%88%86%e6%a0%87%e5%87%86%e6%9b%9d%e5%85%89-%e4%bc%98%e7%a7%80/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】反转了反转了，过去我们给AI跑分，今天Clau [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-05-31",
+    "fetched_at": "2026-05-31 12:53",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "55b98b90b018",
+    "title": "Opus 4.8连夜算尽1170亿人命运，一句话敲出人类投胎模拟器！",
+    "link": "https://aiera.com.cn/2026/05/31/other/admin/96509/opus-4-8%e8%bf%9e%e5%a4%9c%e7%ae%97%e5%b0%bd1170%e4%ba%bf%e4%ba%ba%e5%91%bd%e8%bf%90%ef%bc%8c%e4%b8%80%e5%8f%a5%e8%af%9d%e6%95%b2%e5%87%ba%e4%ba%ba%e7%b1%bb%e6%8a%95%e8%83%8e%e6%a8%a1%e6%8b%9f/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】你此刻喝的干净水、用的电、看的病，1170亿人 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-05-31",
+    "fetched_at": "2026-05-31 12:53",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "83b56520393b",
+    "title": "新智元ALL in ASI英雄帖",
+    "link": "https://aiera.com.cn/2026/05/31/other/admin/96481/%e6%96%b0%e6%99%ba%e5%85%83all-in-asi%e8%8b%b1%e9%9b%84%e5%b8%96-4/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】2026年，ASI奇点之年。全球AI竞赛进入决 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-05-31",
+    "fetched_at": "2026-05-31 12:53",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "f55ae5c79bdd",
+    "title": "刚刚，北大数院「黄金二代」苏炜杰入职OpenAI！",
+    "link": "https://aiera.com.cn/2026/05/31/other/admin/96470/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%8c%97%e5%a4%a7%e6%95%b0%e9%99%a2%e3%80%8c%e9%bb%84%e9%87%91%e4%ba%8c%e4%bb%a3%e3%80%8d%e8%8b%8f%e7%82%9c%e6%9d%b0%e5%85%a5%e8%81%8copenai%ef%bc%81/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】继清华姚班陈立杰之后，OpenAI又迎来一位重 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-05-31",
+    "fetched_at": "2026-05-31 12:53",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "cc7c1481f856",
+    "title": "年薪最高85万、IPO后或身家过亿，进Anthropic被问到怀疑人生？",
+    "link": "https://aiera.com.cn/2026/05/31/other/admin/96450/%e5%b9%b4%e8%96%aa%e6%9c%80%e9%ab%9885%e4%b8%87%e3%80%81ipo%e5%90%8e%e6%88%96%e8%ba%ab%e5%ae%b6%e8%bf%87%e4%ba%bf%ef%bc%8c%e8%bf%9banthropic%e8%a2%ab%e9%97%ae%e5%88%b0%e6%80%80%e7%96%91%e4%ba%ba/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】硅谷最抢手offer，偏要用像心理治疗的面试来 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-05-31",
+    "fetched_at": "2026-05-31 12:53",
+    "date": "2026-05-31"
   },
   {
     "id": "c75f366e2ae0",

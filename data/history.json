@@ -362,6 +362,39 @@
     "date": "2026-05-24"
   },
   {
+    "id": "9d03978475d8",
+    "title": "Ahoy, DECmate II the little PDP-8 that could",
+    "link": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
+    "summary": "Article URL: http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html Comments URL: https://news.ycombinator.com/item?id=48343078 Points: 3 # Comments: 0",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 31 May 2026 04:42:14 +0000",
+    "fetched_at": "2026-05-31 13:07",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "110d226bbbe4",
+    "title": "AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026",
+    "link": "https://www.qbitai.com/2026/05/426819.html",
+    "summary": "CLI更像是Agent的母语",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sun, 31 May 2026 03:54:27 +0000",
+    "fetched_at": "2026-05-31 13:07",
+    "date": "2026-05-31"
+  },
+  {
     "id": "b373372ffd82",
     "title": "从Token无上限到全员Agent：MiniMax的AI Native组织进化实践",
     "link": "https://www.qbitai.com/2026/05/426793.html",

@@ -3,5 +3,10 @@
     "status": "success",
     "collectedAt": "2026-05-31T13:07:59+08:00",
     "notes": "采集60篇去重后60篇，新增2篇到历史。成功来源：HN、TC、AI、MIT、量子位、新智元( WP)、英伟达。部分来源失败但不影响整体采集。"
+  },
+  "2026-06-07": {
+    "status": "success",
+    "collectedAt": "2026-06-07T19:48:17+08:00",
+    "notes": "采集54篇（今日新增），中文20篇。来源：HN(10)、英伟达AI Blog(10)、量子位(10)、TechCrunch AI(10)、MIT Tech Review AI(4)。所有来源成功，无异常。"
   }
 }

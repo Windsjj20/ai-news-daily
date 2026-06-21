@@ -237,6 +237,90 @@
     "date": "2026-05-24"
   },
   {
+    "id": "e56087ba39e5",
+    "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+    "link": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
+    "summary": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices. &#160;",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Tue, 16 Jun 2026 22:30:41 +0000",
+    "fetched_at": "2026-06-21 15:46",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "73f0fe714484",
+    "title": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone",
+    "link": "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/",
+    "summary": "AI runs at the speed of light. More and more, that light is made in Texas. Coherent broke ground today on an expanded manufacturing building in Sherman, Texas. The company makes the lasers, optical components and compound semiconductors that wire AI systems together — and runs what it calls the worl",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Tue, 16 Jun 2026 22:10:56 +0000",
+    "fetched_at": "2026-06-21 15:46",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "a8a99da03dcc",
+    "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
+    "link": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
+    "summary": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NV",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Tue, 16 Jun 2026 16:30:27 +0000",
+    "fetched_at": "2026-06-21 15:46",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "39294416a114",
+    "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
+    "link": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/",
+    "summary": "Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those jobs complete reliably. As models grow in size, complexity and intelligence, the de",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Tue, 16 Jun 2026 15:00:36 +0000",
+    "fetched_at": "2026-06-21 15:46",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "a0c826c444f1",
+    "title": "Want to get a data center online quickly? Give it some flex.",
+    "link": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+    "summary": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different&#82",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Tue, 16 Jun 2026 09:00:00 +0000",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
+  },
+  {
     "id": "c0f0f103cd7f",
     "title": "NVIDIA and SAP Bring Trust to Specialized Agents",
     "link": "https://blogs.nvidia.com/blog/sap-specialized-agents/",
@@ -560,6 +644,90 @@
     "pub_date": "Thu, 21 May 2026 13:00:22 +0000",
     "fetched_at": "2026-05-24 21:31",
     "date": "2026-05-24"
+  },
+  {
+    "id": "fdfac61152ca",
+    "title": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
+    "link": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
+    "summary": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the ",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Thu, 18 Jun 2026 20:00:27 +0000",
+    "fetched_at": "2026-06-21 15:46",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "a4918aa9ba6d",
+    "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
+    "link": "https://www.qbitai.com/2026/06/436758.html",
+    "summary": "M4是大脑，百小医是身体",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Thu, 18 Jun 2026 13:46:04 +0000",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "878e03f0bb5b",
+    "title": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
+    "link": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
+    "summary": "The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations. For companies building next-generation technologies for advertising and marketing, the question is no longer whether to adopt AI but whether their infrastructure can support it at the sp",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Thu, 18 Jun 2026 13:00:43 +0000",
+    "fetched_at": "2026-06-21 15:46",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "e1a1021043ec",
+    "title": "Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/",
+    "summary": "Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device. That’s the power of GeForce NOW cloud gaming. From providing access to members’ favorite game libraries to offering some of the season’s best membership pricing, GeForce",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Thu, 18 Jun 2026 13:00:32 +0000",
+    "fetched_at": "2026-06-21 15:46",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "4751d22d2888",
+    "title": "France Advances Europe’s AI Future With NVIDIA Technologies",
+    "link": "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/",
+    "summary": "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying appl",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Thu, 18 Jun 2026 06:00:59 +0000",
+    "fetched_at": "2026-06-21 15:46",
+    "date": "2026-06-21"
   },
   {
     "id": "eafa5de3dcac",
@@ -1054,6 +1222,175 @@
     "pub_date": "Sun, 24 May 2026 00:30:50 +0000",
     "fetched_at": "2026-05-24 15:47",
     "date": "2026-05-24"
+  },
+  {
+    "id": "08b6418582ce",
+    "title": "The 100k Whys of AI",
+    "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+    "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 60 # Comments: 25",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 21 Jun 2026 05:45:21 +0000",
+    "fetched_at": "2026-06-21 15:43",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "766e6cf4004b",
+    "title": "The Lost Story of Alan Turing's \"Delilah\" Project",
+    "link": "https://spectrum.ieee.org/alan-turings-delilah",
+    "summary": "Article URL: https://spectrum.ieee.org/alan-turings-delilah Comments URL: https://news.ycombinator.com/item?id=48615890 Points: 10 # Comments: 1",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 21 Jun 2026 05:15:33 +0000",
+    "fetched_at": "2026-06-21 15:43",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "a50ca6b1e2b2",
+    "title": "Public Service Announcement: Don't Say You Use AI for Writing",
+    "link": "https://www.satisfice.com/blog/archives/488148",
+    "summary": "Article URL: https://www.satisfice.com/blog/archives/488148 Comments URL: https://news.ycombinator.com/item?id=48615776 Points: 9 # Comments: 1",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 21 Jun 2026 04:50:46 +0000",
+    "fetched_at": "2026-06-21 15:43",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "baf908cb92aa",
+    "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+    "link": "https://www.qbitai.com/2026/06/437141.html",
+    "summary": "一个月只要340块",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sun, 21 Jun 2026 04:46:07 +0000",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "65411946b238",
+    "title": "Building reliable agentic AI systems",
+    "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 66 # Comments: 13",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 21 Jun 2026 04:28:39 +0000",
+    "fetched_at": "2026-06-21 15:43",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "f208560178c9",
+    "title": "Your brain was never designed for this much bad news",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+    "summary": "Article URL: https://www.sciencedaily.com/releases/2026/06/260614012006.htm Comments URL: https://news.ycombinator.com/item?id=48615569 Points: 129 # Comments: 85",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 21 Jun 2026 04:02:08 +0000",
+    "fetched_at": "2026-06-21 15:43",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "6c88f1a4080f",
+    "title": "Armstrong Effect",
+    "link": "https://en.wikipedia.org/wiki/Armstrong_effect",
+    "summary": "Article URL: https://en.wikipedia.org/wiki/Armstrong_effect Comments URL: https://news.ycombinator.com/item?id=48615529 Points: 23 # Comments: 1",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 21 Jun 2026 03:54:22 +0000",
+    "fetched_at": "2026-06-21 15:43",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "dab11b5beb8c",
+    "title": "Developers don't understand CORS (2019)",
+    "link": "https://fosterelli.co/developers-dont-understand-cors",
+    "summary": "Article URL: https://fosterelli.co/developers-dont-understand-cors Comments URL: https://news.ycombinator.com/item?id=48614844 Points: 140 # Comments: 57",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 21 Jun 2026 01:35:40 +0000",
+    "fetched_at": "2026-06-21 15:43",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "052a30c7a5b3",
+    "title": "When I reject AI code even if it works",
+    "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+    "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 155 # Comments: 85",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 21 Jun 2026 00:58:13 +0000",
+    "fetched_at": "2026-06-21 15:43",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "31c5ca121636",
+    "title": "Project Fetch: Phase Two",
+    "link": "https://www.anthropic.com/research/project-fetch-phase-two",
+    "summary": "Article URL: https://www.anthropic.com/research/project-fetch-phase-two Comments URL: https://news.ycombinator.com/item?id=48614311 Points: 54 # Comments: 20",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 21 Jun 2026 00:00:25 +0000",
+    "fetched_at": "2026-06-21 15:43",
+    "date": "2026-06-21"
   },
   {
     "id": "79786aafe14d",
@@ -2064,6 +2401,154 @@
     "date": "2026-05-24"
   },
   {
+    "id": "6e70f48cceac",
+    "title": "Epoll vs. io_uring in Linux",
+    "link": "https://sibexi.co/posts/epoll-vs-io_uring/",
+    "summary": "Article URL: https://sibexi.co/posts/epoll-vs-io_uring/ Comments URL: https://news.ycombinator.com/item?id=48613872 Points: 132 # Comments: 36",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 20 Jun 2026 23:07:09 +0000",
+    "fetched_at": "2026-06-21 15:43",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "7ddc78b7ede2",
+    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+    "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Sat, 20 Jun 2026 20:32:29 +0000",
+    "fetched_at": "2026-06-21 15:43",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "5cab6cb8b0ba",
+    "title": "In the Weights is your new AI-centric vanity search",
+    "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+    "summary": "So ... what's your In the Weights score?",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Sat, 20 Jun 2026 19:41:11 +0000",
+    "fetched_at": "2026-06-21 15:43",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "232b0ce5ea49",
+    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+    "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Sat, 20 Jun 2026 16:39:57 +0000",
+    "fetched_at": "2026-06-21 15:43",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "cbcfa74eca6d",
+    "title": "英伟达开始搞机器人自己研究机器人那套了…",
+    "link": "https://www.qbitai.com/2026/06/437041.html",
+    "summary": "为了让你烧token，英伟达已经卷到机器人身上了",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 20 Jun 2026 12:06:20 +0000",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "adcdd846435a",
+    "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
+    "link": "https://www.qbitai.com/2026/06/437023.html",
+    "summary": "全球最聪明的人之一，成了AI最狂热的布道者",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 20 Jun 2026 11:56:57 +0000",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "c54ed43c9382",
+    "title": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
+    "link": "https://www.qbitai.com/2026/06/436996.html",
+    "summary": "速度快7倍，成本只有Veo 3的1/2000",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 20 Jun 2026 10:42:35 +0000",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "b696d69efb8f",
+    "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
+    "link": "https://www.qbitai.com/2026/06/436980.html",
+    "summary": "Gemini 3.5 Pro呢？",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 20 Jun 2026 09:42:18 +0000",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "0876e7888a83",
+    "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
+    "link": "https://www.qbitai.com/2026/06/436966.html",
+    "summary": "抢人最猛的Meta，似乎先从内部裂开了",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 20 Jun 2026 09:36:31 +0000",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
+  },
+  {
     "id": "2149290c64f5",
     "title": "KPMG pulls report on AI usage due to apparent hallucinations",
     "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
@@ -2431,6 +2916,22 @@
     "pub_date": "Mon, 18 May 2026 16:01:39 +0000",
     "fetched_at": "2026-05-24 15:47",
     "date": "2026-05-24"
+  },
+  {
+    "id": "2e6677ef75d7",
+    "title": "Why do South Koreans love AI so much?",
+    "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my fa",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Mon, 15 Jun 2026 18:46:08 +0000",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
   },
   {
     "id": "11892f53bfec",
@@ -3031,6 +3532,189 @@
     "date": "2026-05-24"
   },
   {
+    "id": "d0d9430b3e14",
+    "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+    "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 19 Jun 2026 22:40:14 +0000",
+    "fetched_at": "2026-06-21 15:43",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "d131d924d4b8",
+    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+    "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+    "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since ",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 19 Jun 2026 16:08:17 +0000",
+    "fetched_at": "2026-06-21 15:43",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "00841429d7c1",
+    "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+    "link": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+    "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since ",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 19 Jun 2026 16:01:03 +0000",
+    "fetched_at": "2026-06-21 15:43",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "e35040ffdf08",
+    "title": "Billionaire Ambani wants AI in every call, app, and home",
+    "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+    "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 19 Jun 2026 15:23:28 +0000",
+    "fetched_at": "2026-06-21 15:43",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "076b29791c7a",
+    "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+    "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+    "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 19 Jun 2026 13:00:00 +0000",
+    "fetched_at": "2026-06-21 15:43",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "8add01e4aff7",
+    "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+    "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has sta",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Fri, 19 Jun 2026 10:40:24 +0000",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "bb693b57939b",
+    "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
+    "link": "https://www.qbitai.com/2026/06/436864.html",
+    "summary": "创作者的终极玩具来了",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 19 Jun 2026 08:42:04 +0000",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "bd33e41be4e5",
+    "title": "The US says ASML’s top chip tool may be in China, but how?",
+    "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+    "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 19 Jun 2026 07:59:12 +0000",
+    "fetched_at": "2026-06-21 15:43",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "f4ebc0d39573",
+    "title": "GPT发AI原创新成果了",
+    "link": "https://www.qbitai.com/2026/06/436842.html",
+    "summary": "AI实现药物全自动研发，还远吗？",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 19 Jun 2026 03:34:23 +0000",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "abde44de100e",
+    "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
+    "link": "https://www.qbitai.com/2026/06/436813.html",
+    "summary": "人形机器人正式迈入“GPT时代”",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 19 Jun 2026 03:28:37 +0000",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "f7db370cf36f",
+    "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+    "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 19 Jun 2026 00:51:11 +0000",
+    "fetched_at": "2026-06-21 15:43",
+    "date": "2026-06-21"
+  },
+  {
     "id": "9c8aa558adfd",
     "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
     "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
@@ -3414,6 +4098,176 @@
     "pub_date": "Fri, 05 Jun 2026 05:38:37 +0000",
     "fetched_at": "2026-06-07 19:48",
     "date": "2026-06-07"
+  },
+  {
+    "id": "96ac719744eb",
+    "title": "Anthropic重磅产品线来了！Conway永久在线，智能体大军来袭",
+    "link": "https://aiera.com.cn/2026/06/21/other/admin/100182/anthropic%e9%87%8d%e7%a3%85%e4%ba%a7%e5%93%81%e7%ba%bf%e6%9d%a5%e4%ba%86%ef%bc%81conway%e6%b0%b8%e4%b9%85%e5%9c%a8%e7%ba%bf%ef%bc%8c%e6%99%ba%e8%83%bd%e4%bd%93%e5%a4%a7%e5%86%9b%e6%9d%a5%e8%a2%ad/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】刚刚，Anthropic重磅产品曝光了：永久在 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-06-21",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "174b17cb7158",
+    "title": "Claude Cowork限时翻倍！Anthropic亏钱请所有打工人",
+    "link": "https://aiera.com.cn/2026/06/21/other/admin/100161/claude-cowork%e9%99%90%e6%97%b6%e7%bf%bb%e5%80%8d%ef%bc%81anthropic%e4%ba%8f%e9%92%b1%e8%af%b7%e6%89%80%e6%9c%89%e6%89%93%e5%b7%a5%e4%ba%ba/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】Cowork全线额度翻倍！月费20刀能薅236 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-06-21",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "e802085e4da4",
+    "title": "刚刚，诺贝尔奖得主成Anthropic新员工！",
+    "link": "https://aiera.com.cn/2026/06/21/other/admin/100141/%e5%88%9a%e5%88%9a%ef%bc%8c%e8%af%ba%e8%b4%9d%e5%b0%94%e5%a5%96%e5%be%97%e4%b8%bb%e6%88%90anthropic%e6%96%b0%e5%91%98%e5%b7%a5%ef%bc%81/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】博士毕业6个月直接领队AlphaFold，7年 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-06-21",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "742d3cfdae3b",
+    "title": "OpenAI发布最新里程碑：对齐的本质是「人格」",
+    "link": "https://aiera.com.cn/2026/06/21/other/admin/100120/openai%e5%8f%91%e5%b8%83%e6%9c%80%e6%96%b0%e9%87%8c%e7%a8%8b%e7%a2%91%ef%bc%9a%e5%af%b9%e9%bd%90%e7%9a%84%e6%9c%ac%e8%b4%a8%e6%98%af%e3%80%8c%e4%ba%ba%e6%a0%bc%e3%80%8d/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】对齐的秘密不是规则，是人格。这可能是通向超级智 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-06-21",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "3d9471a2d4cd",
+    "title": "Codex补贴大战：开始裂变拉新！",
+    "link": "https://aiera.com.cn/2026/06/21/other/admin/100099/codex%e8%a1%a5%e8%b4%b4%e5%a4%a7%e6%88%98%ef%bc%9a%e5%bc%80%e5%a7%8b%e8%a3%82%e5%8f%98%e6%8b%89%e6%96%b0%ef%bc%81/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】Codex 额度重置现在可以存着、挑时间用，拉 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-06-21",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "1ed633ef3bb8",
+    "title": "Anthropic走出危机？这200家公司独享Mythos特权",
+    "link": "https://aiera.com.cn/2026/06/21/other/admin/100086/anthropic%e8%b5%b0%e5%87%ba%e5%8d%b1%e6%9c%ba%ef%bc%9f%e8%bf%99200%e5%ae%b6%e5%85%ac%e5%8f%b8%e7%8b%ac%e4%ba%abmythos%e7%89%b9%e6%9d%83/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】美国政府出口管制令刚落，坊间以为Anthrop [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-06-21",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "7616dfca751d",
+    "title": "谷歌CEO罕见承认落后了！Gemini 3.5 Pro被曝难产",
+    "link": "https://aiera.com.cn/2026/06/21/other/admin/100064/%e8%b0%b7%e6%ad%8cceo%e7%bd%95%e8%a7%81%e6%89%bf%e8%ae%a4%e8%90%bd%e5%90%8e%e4%ba%86%ef%bc%81gemini-3-5-pro%e8%a2%ab%e6%9b%9d%e9%9a%be%e4%ba%a7/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】Gemini 3.5 Pro即将面世，却面临定 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-06-21",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "0d7a70cc149a",
+    "title": "60秒洗澡狂扫全身！Midjourney算力怪兽干翻传统CT？",
+    "link": "https://aiera.com.cn/2026/06/21/other/admin/100033/60%e7%a7%92%e6%b4%97%e6%be%a1%e7%8b%82%e6%89%ab%e5%85%a8%e8%ba%ab%ef%bc%81midjourney%e7%ae%97%e5%8a%9b%e6%80%aa%e5%85%bd%e5%b9%b2%e7%bf%bb%e4%bc%a0%e7%bb%9fct%ef%bc%9f/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】AI画图巨头突然杀入医疗圈！60秒泡个澡就能完 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-06-21",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "8753bd306b54",
+    "title": "G7惊魂2.5小时！奥特曼笑坐，达里奥「受审」",
+    "link": "https://aiera.com.cn/2026/06/20/other/admin/100007/g7%e6%83%8a%e9%ad%822-5%e5%b0%8f%e6%97%b6%ef%bc%81%e5%a5%a5%e7%89%b9%e6%9b%bc%e7%ac%91%e5%9d%90%ef%bc%8c%e8%be%be%e9%87%8c%e5%a5%a5%e3%80%8c%e5%8f%97%e5%ae%a1%e3%80%8d/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】G7峰会惊变AI战场！特朗普一纸禁令掐断盟友A [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-06-20",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "77e9f6340d2b",
+    "title": "奥特曼押注2028：让AI学会造AI",
+    "link": "https://aiera.com.cn/2026/06/20/other/admin/99986/%e5%a5%a5%e7%89%b9%e6%9b%bc%e6%8a%bc%e6%b3%a82028%ef%bc%9a%e8%ae%a9ai%e5%ad%a6%e4%bc%9a%e9%80%a0ai/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】秘密提交IPO文件的同一天，OpenAI没急着 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-06-20",
+    "fetched_at": "2026-06-21 15:44",
+    "date": "2026-06-21"
   },
   {
     "id": "ada45a4b2e1f",

@@ -101,6 +101,23 @@
     "date": "2026-06-14"
   },
   {
+    "id": "bc85c1c8599e",
+    "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+    "link": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+    "summary": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completi",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Wed, 08 Jul 2026 15:00:27 +0000",
+    "fetched_at": "2026-07-12 12:49",
+    "date": "2026-07-12"
+  },
+  {
     "id": "4e0fd56f727a",
     "title": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
     "link": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/",
@@ -552,6 +569,56 @@
     "date": "2026-06-14"
   },
   {
+    "id": "e1f140ae344d",
+    "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
+    "link": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
+    "summary": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the too",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Tue, 07 Jul 2026 15:00:52 +0000",
+    "fetched_at": "2026-07-12 12:49",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "34dc6f6de3b4",
+    "title": "The foundational elements of AI architecture that IT leaders need to scale",
+    "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+    "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the futur",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Tue, 07 Jul 2026 11:10:52 +0000",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "9c9443e032d1",
+    "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+    "link": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+    "summary": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and fragmented resources, from large datasets and robot foundation models to simulation, co",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Tue, 07 Jul 2026 06:00:26 +0000",
+    "fetched_at": "2026-07-12 12:49",
+    "date": "2026-07-12"
+  },
+  {
     "id": "81fd06eaf893",
     "title": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
     "link": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/",
@@ -961,6 +1028,90 @@
     "date": "2026-06-14"
   },
   {
+    "id": "ee3f32770183",
+    "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
+    "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+    "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Thu, 09 Jul 2026 23:38:00 +0000",
+    "fetched_at": "2026-07-12 12:46",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "da68d51d471a",
+    "title": "OpenAI launches its new family of models with GPT-5.6",
+    "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+    "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Thu, 09 Jul 2026 22:24:24 +0000",
+    "fetched_at": "2026-07-12 12:46",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "eb2fa5e9cf60",
+    "title": "An AI agent startup just let its agent run its $100M fundraise",
+    "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+    "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Thu, 09 Jul 2026 22:08:58 +0000",
+    "fetched_at": "2026-07-12 12:46",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "a90a0d3e9300",
+    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+    "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+    "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the ",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Thu, 09 Jul 2026 20:22:28 +0000",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "cb4e53c521dd",
+    "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
+    "summary": "This GFN Thursday brings more games, more power and more ways to play on GeForce NOW. The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in the cloud closer to members across the region. NTE: Neverness to Everness also get",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Thu, 09 Jul 2026 13:00:55 +0000",
+    "fetched_at": "2026-07-12 12:49",
+    "date": "2026-07-12"
+  },
+  {
     "id": "997538f580dc",
     "title": "Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW",
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/",
@@ -1109,6 +1260,22 @@
     "pub_date": "Thu, 02 Jul 2026 12:51:44 +0000",
     "fetched_at": "2026-07-05 13:10",
     "date": "2026-07-05"
+  },
+  {
+    "id": "9d9559f96015",
+    "title": "Building the foundation for an autonomous enterprise",
+    "link": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
+    "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is beco",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Thu, 02 Jul 2026 12:51:44 +0000",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
   },
   {
     "id": "d16fdf4c2d67",
@@ -1910,6 +2077,242 @@
     "pub_date": "Sun, 14 Jun 2026 00:03:49 +0000",
     "fetched_at": "2026-06-14 13:46",
     "date": "2026-06-14"
+  },
+  {
+    "id": "6fbb7f1fd7cb",
+    "title": "Why Write Code in 2026",
+    "link": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
+    "summary": "Article URL: https://softwaredoug.com/blog/2026/07/09/write-code.html Comments URL: https://news.ycombinator.com/item?id=48878195 Points: 7 # Comments: 0",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 12 Jul 2026 04:15:27 +0000",
+    "fetched_at": "2026-07-12 12:46",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "6bb8da5aba8e",
+    "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+    "link": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+    "summary": "Article URL: https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans Comments URL: https://news.ycombinator.com/item?id=48878126 Points: 15 # Comments: 3",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 12 Jul 2026 04:00:14 +0000",
+    "fetched_at": "2026-07-12 12:46",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "d9205cfb5ced",
+    "title": "Why are US consumers so angry? It's not just high prices",
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy",
+    "summary": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy Comments URL: https://news.ycombinator.com/item?id=48877927 Points: 35 # Comments: 18",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 12 Jul 2026 03:10:08 +0000",
+    "fetched_at": "2026-07-12 12:46",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "8f2130f7e89d",
+    "title": "Small Inventors Are Being Squeezed by a Convoluted Patent Process",
+    "link": "https://www.nationalreview.com/news/small-inventors-are-being-squeezed-by-a-convoluted-patent-process/",
+    "summary": "Article URL: https://www.nationalreview.com/news/small-inventors-are-being-squeezed-by-a-convoluted-patent-process/ Comments URL: https://news.ycombinator.com/item?id=48877723 Points: 15 # Comments: 1",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 12 Jul 2026 02:25:25 +0000",
+    "fetched_at": "2026-07-12 12:46",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "20e746a62073",
+    "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+    "link": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+    "summary": "Article URL: https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/ Comments URL: https://news.ycombinator.com/item?id=48877668 Points: 42 # Comments: 7",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 12 Jul 2026 02:13:46 +0000",
+    "fetched_at": "2026-07-12 12:46",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "577912885416",
+    "title": "The Energetic Costs of Cellular Computation (2012)",
+    "link": "https://arxiv.org/abs/1203.5426",
+    "summary": "Article URL: https://arxiv.org/abs/1203.5426 Comments URL: https://news.ycombinator.com/item?id=48877613 Points: 14 # Comments: 1",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 12 Jul 2026 01:59:35 +0000",
+    "fetched_at": "2026-07-12 12:46",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "0849e8614583",
+    "title": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型",
+    "link": "https://www.qbitai.com/2026/07/447981.html",
+    "summary": "老黄在ComputeX发布的“超级芯片”，已经在真机中落地了",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sun, 12 Jul 2026 01:37:11 +0000",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "1480d7c2f2fc",
+    "title": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+    "link": "https://www.qbitai.com/2026/07/447914.html",
+    "summary": "为了帮你看清具身数据行业，我们总结了以下十个行业现状",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sun, 12 Jul 2026 01:14:50 +0000",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "49e3cbc2efec",
+    "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+    "link": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+    "summary": "Article URL: https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547 Comments URL: https://news.ycombinator.com/item?id=48877371 Points: 129 # Comments: 69",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 12 Jul 2026 01:09:50 +0000",
+    "fetched_at": "2026-07-12 12:46",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "e4c624369920",
+    "title": "A Erlang style pure Scheme Webserver and further",
+    "link": "https://igropyr.com",
+    "summary": "Article URL: https://igropyr.com Comments URL: https://news.ycombinator.com/item?id=48877344 Points: 26 # Comments: 1",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 12 Jul 2026 01:03:29 +0000",
+    "fetched_at": "2026-07-12 12:46",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "117c785e050f",
+    "title": "A pure scheme web programming tool",
+    "link": "https://goeteia.dev",
+    "summary": "Article URL: https://goeteia.dev Comments URL: https://news.ycombinator.com/item?id=48877314 Points: 44 # Comments: 15",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 12 Jul 2026 00:57:18 +0000",
+    "fetched_at": "2026-07-12 12:46",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "56e57461f6ba",
+    "title": "A dock that wakes up reliably",
+    "link": "https://fabiensanglard.net/tb4/index.html",
+    "summary": "Article URL: https://fabiensanglard.net/tb4/index.html Comments URL: https://news.ycombinator.com/item?id=48877269 Points: 48 # Comments: 37",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 12 Jul 2026 00:48:10 +0000",
+    "fetched_at": "2026-07-12 12:46",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "185bfa6db768",
+    "title": "Long Covid May Physically Damage the Nerves That Control the Stomach",
+    "link": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
+    "summary": "Article URL: https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext Comments URL: https://news.ycombinator.com/item?id=48877192 Points: 82 # Comments: 35",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 12 Jul 2026 00:35:08 +0000",
+    "fetched_at": "2026-07-12 12:51",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "ef4bb0f465d3",
+    "title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",
+    "link": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491",
+    "summary": "Article URL: https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491 Comments URL: https://news.ycombinator.com/item?id=48877178 Points: 51 # Comments: 9",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 12 Jul 2026 00:32:15 +0000",
+    "fetched_at": "2026-07-12 12:51",
+    "date": "2026-07-12"
   },
   {
     "id": "2a9e3be65c9d",
@@ -3132,6 +3535,71 @@
     "date": "2026-06-14"
   },
   {
+    "id": "b9b468358fa6",
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Sat, 11 Jul 2026 14:13:00 +0000",
+    "fetched_at": "2026-07-12 12:46",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "bb937bb4c1e7",
+    "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+    "link": "https://www.qbitai.com/2026/07/447902.html",
+    "summary": "已跑通300余项应用",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 11 Jul 2026 10:07:17 +0000",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "d64ce3695115",
+    "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+    "link": "https://www.qbitai.com/2026/07/447891.html",
+    "summary": "从FP64到INT8，全精度覆盖。",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 11 Jul 2026 06:26:46 +0000",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "dbe10a2c002f",
+    "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+    "link": "https://www.qbitai.com/2026/07/447873.html",
+    "summary": "神话级大模型驾驭宝典",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 11 Jul 2026 05:30:11 +0000",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
     "id": "c3048522c6f1",
     "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
     "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
@@ -3618,6 +4086,56 @@
     "pub_date": "Mon, 08 Jun 2026 03:00:50 +0000",
     "fetched_at": "2026-06-14 13:48",
     "date": "2026-06-14"
+  },
+  {
+    "id": "e930f63d2b61",
+    "title": "Your family’s $300 stake in OpenAI",
+    "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial ",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Mon, 06 Jul 2026 18:00:00 +0000",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "e7643889683a",
+    "title": "How Open Models Are Driving AI Research",
+    "link": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
+    "summary": "Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work. This year’s accepted papers reveal a clear direction: open frontier models and open AI infrastructure have become foundational to how modern AI science gets d",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Mon, 06 Jul 2026 16:00:00 +0000",
+    "fetched_at": "2026-07-12 12:49",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "8508516950be",
+    "title": "How Nations Are Deploying AI for Strategic Priorities",
+    "link": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
+    "summary": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce, entertainment and healthcare. AI, the most important technology of our time, is turb",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Mon, 06 Jul 2026 15:00:25 +0000",
+    "fetched_at": "2026-07-12 12:49",
+    "date": "2026-07-12"
   },
   {
     "id": "62ec228a88f1",
@@ -4569,6 +5087,188 @@
     "date": "2026-06-14"
   },
   {
+    "id": "312c742d69a6",
+    "title": "Meta removes controversial AI feature on Instagram after backlash",
+    "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 10 Jul 2026 23:55:07 +0000",
+    "fetched_at": "2026-07-12 12:46",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "80b272bb4140",
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 10 Jul 2026 21:00:29 +0000",
+    "fetched_at": "2026-07-12 12:46",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "c835ffd5cd3d",
+    "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+    "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+    "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same st",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 10 Jul 2026 19:00:00 +0000",
+    "fetched_at": "2026-07-12 12:46",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "51b29471aac3",
+    "title": "只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审",
+    "link": "https://www.qbitai.com/2026/07/447846.html",
+    "summary": "四大方向，奖金直给",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 10 Jul 2026 17:18:11 +0000",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "2e6f798b14e7",
+    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+    "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 10 Jul 2026 17:17:12 +0000",
+    "fetched_at": "2026-07-12 12:46",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "2885c6b14359",
+    "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
+    "link": "https://www.qbitai.com/2026/07/447832.html",
+    "summary": "AI变为研发流程的“组织者”",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 10 Jul 2026 14:13:37 +0000",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "c4ac912fdc8d",
+    "title": "Hugging Face’s CEO on why companies are done renting their AI",
+    "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+    "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same st",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 10 Jul 2026 14:00:00 +0000",
+    "fetched_at": "2026-07-12 12:46",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "baa569e45e04",
+    "title": "一群做自动驾驶的人，盯上了睡眠这件事",
+    "link": "https://www.qbitai.com/2026/07/447796.html",
+    "summary": "把数据闭环搬进卧室",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 10 Jul 2026 09:45:01 +0000",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "3ba29f864684",
+    "title": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
+    "link": "https://www.qbitai.com/2026/07/447691.html",
+    "summary": "",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 10 Jul 2026 09:41:25 +0000",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "b838de8f3b2e",
+    "title": "AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名",
+    "link": "https://www.qbitai.com/2026/07/447682.html",
+    "summary": "",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 10 Jul 2026 09:32:09 +0000",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "9ac461d004e9",
+    "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+    "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+    "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 10 Jul 2026 00:16:54 +0000",
+    "fetched_at": "2026-07-12 12:46",
+    "date": "2026-07-12"
+  },
+  {
     "id": "5f705da3009f",
     "title": "Startup Battlefield 200 applications officially close in 3 days",
     "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
@@ -4928,6 +5628,176 @@
     "pub_date": "Fri, 03 Jul 2026 05:24:06 +0000",
     "fetched_at": "2026-07-05 13:10",
     "date": "2026-07-05"
+  },
+  {
+    "id": "e21a26af35aa",
+    "title": "上线几小时，马斯克Grok 4.5被攻破！1.5万亿参数防线全失守",
+    "link": "https://aiera.com.cn/2026/07/12/other/admin/103571/%e4%b8%8a%e7%ba%bf%e5%87%a0%e5%b0%8f%e6%97%b6%ef%bc%8c%e9%a9%ac%e6%96%af%e5%85%8bgrok-4-5%e8%a2%ab%e6%94%bb%e7%a0%b4%ef%bc%811-5%e4%b8%87%e4%ba%bf%e5%8f%82%e6%95%b0%e9%98%b2%e7%ba%bf%e5%85%a8%e5%a4%b1/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】上线没几个小时，马斯克的Grok-4.5就被黑 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-07-12",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "e8dddda5360a",
+    "title": "Claude Code大升级！一行神级命令，编程原地起飞",
+    "link": "https://aiera.com.cn/2026/07/12/other/admin/103556/claude-code%e5%a4%a7%e5%8d%87%e7%ba%a7%ef%bc%81%e4%b8%80%e8%a1%8c%e7%a5%9e%e7%ba%a7%e5%91%bd%e4%bb%a4%ef%bc%8c%e7%bc%96%e7%a8%8b%e5%8e%9f%e5%9c%b0%e8%b5%b7%e9%a3%9e/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】Claude Code中「/checkup」命 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-07-12",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "1f8c7ab0d6c2",
+    "title": "中国用十万卡定义下一代AI基建！",
+    "link": "https://aiera.com.cn/2026/07/12/other/admin/103544/%e4%b8%ad%e5%9b%bd%e7%94%a8%e5%8d%81%e4%b8%87%e5%8d%a1%e5%ae%9a%e4%b9%89%e4%b8%8b%e4%b8%80%e4%bb%a3ai%e5%9f%ba%e5%bb%ba%ef%bc%81/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】一边是AI4S、大模型对算力规模的极限追逐，另 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-07-12",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "3320a49889fe",
+    "title": "全球办公AI王座易主！GPT-5.6接管微软全家桶，数亿打工人集体换脑",
+    "link": "https://aiera.com.cn/2026/07/12/other/admin/103535/%e5%85%a8%e7%90%83%e5%8a%9e%e5%85%acai%e7%8e%8b%e5%ba%a7%e6%98%93%e4%b8%bb%ef%bc%81gpt-5-6%e6%8e%a5%e7%ae%a1%e5%be%ae%e8%bd%af%e5%85%a8%e5%ae%b6%e6%a1%b6%ef%bc%8c%e6%95%b0%e4%ba%bf%e6%89%93%e5%b7%a5/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】GPT-5.6接管微软全家桶、编码屠榜成本仅C [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-07-12",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "f9a699f5ffa6",
+    "title": "谷歌Gemma 4论文深夜解封！31B直逼闭源前沿，敲响云端AI丧钟",
+    "link": "https://aiera.com.cn/2026/07/12/other/admin/103516/%e8%b0%b7%e6%ad%8cgemma-4%e8%ae%ba%e6%96%87%e6%b7%b1%e5%a4%9c%e8%a7%a3%e5%b0%81%ef%bc%8131b%e7%9b%b4%e9%80%bc%e9%97%ad%e6%ba%90%e5%89%8d%e6%b2%bf%ef%bc%8c%e6%95%b2%e5%93%8d%e4%ba%91%e7%ab%afai/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】谷歌公布最新Gemma 4技术报道！Gemma [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-07-12",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "0d19b738a0dc",
+    "title": "OpenAI女CEO走了！7年病情终恶化，奥特曼：太痛心",
+    "link": "https://aiera.com.cn/2026/07/12/other/admin/103501/openai%e5%a5%b3ceo%e8%b5%b0%e4%ba%86%ef%bc%817%e5%b9%b4%e7%97%85%e6%83%85%e7%bb%88%e6%81%b6%e5%8c%96%ef%bc%8c%e5%a5%a5%e7%89%b9%e6%9b%bc%ef%bc%9a%e5%a4%aa%e7%97%9b%e5%bf%83/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】OpenAI应用CEO Fidji Simo因 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-07-12",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "9fd602889ddc",
+    "title": "实锤！Claude Code危害严重被点名",
+    "link": "https://aiera.com.cn/2026/07/12/other/admin/103484/%e5%ae%9e%e9%94%a4%ef%bc%81claude-code%e5%8d%b1%e5%ae%b3%e4%b8%a5%e9%87%8d%e8%a2%ab%e7%82%b9%e5%90%8d/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】国家漏洞库紧急预警！Claude Code内置 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-07-12",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "a557b81abd11",
+    "title": "GPT-5.6被曝重大bug！硅谷大佬Mac被一键清空",
+    "link": "https://aiera.com.cn/2026/07/12/other/admin/103466/gpt-5-6%e8%a2%ab%e6%9b%9d%e9%87%8d%e5%a4%a7bug%ef%bc%81%e7%a1%85%e8%b0%b7%e5%a4%a7%e4%bd%acmac%e8%a2%ab%e4%b8%80%e9%94%ae%e6%b8%85%e7%a9%ba/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】GPT-5.6 Sol 惊现毁灭级Bug，竟随 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-07-12",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "58dcd8dfc4cf",
+    "title": "Claude出了个「防沉迷」，却可能让你更离不开它",
+    "link": "https://aiera.com.cn/2026/07/12/other/admin/103435/claude%e5%87%ba%e4%ba%86%e4%b8%aa%e3%80%8c%e9%98%b2%e6%b2%89%e8%bf%b7%e3%80%8d%ef%bc%8c%e5%8d%b4%e5%8f%af%e8%83%bd%e8%ae%a9%e4%bd%a0%e6%9b%b4%e7%a6%bb%e4%b8%8d%e5%bc%80%e5%ae%83/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 【新智元导读】Claude上线「防沉迷」，劝你想想何时该关掉 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-07-12",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "08103432bbb7",
+    "title": "分子之心MoleculeOS开放测试，推动AI生物经济基础设施落地",
+    "link": "https://aiera.com.cn/2026/07/10/other/admin/103421/%e5%88%86%e5%ad%90%e4%b9%8b%e5%bf%83moleculeos%e5%bc%80%e6%94%be%e6%b5%8b%e8%af%95%ef%bc%8c%e6%8e%a8%e5%8a%a8ai%e7%94%9f%e7%89%a9%e7%bb%8f%e6%b5%8e%e5%9f%ba%e7%a1%80%e8%ae%be%e6%96%bd%e8%90%bd/",
+    "summary": "AI生物研发正在从“工具时代”迈向“操作系统时代”。 7月2日，在2026上海国投前沿论坛上，分子之心创始人许 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-07-10",
+    "fetched_at": "2026-07-12 12:47",
+    "date": "2026-07-12"
   },
   {
     "id": "032f4f92bd57",

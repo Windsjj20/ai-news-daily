@@ -1,5 +1,21 @@
 [
   {
+    "id": "b4d3a90f6379",
+    "title": "The AI Hype Index: Unsexy AI",
+    "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+    "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Wed, 29 Jul 2026 08:42:57 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
     "id": "0ddc0ce05d44",
     "title": "AI Factories: The New Infrastructure of Intelligence",
     "link": "https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/",
@@ -31,6 +47,23 @@
     "pub_date": "Wed, 24 Jun 2026 11:59:54 +0000",
     "fetched_at": "2026-07-05 13:10",
     "date": "2026-07-05"
+  },
+  {
+    "id": "4c377ecc7427",
+    "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+    "link": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+    "summary": "Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissue. Imaging can be noisy or incomplete. And the rare, edge scenarios developers most need to understand don’t appear on s",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Wed, 22 Jul 2026 13:00:11 +0000",
+    "fetched_at": "2026-08-02 15:49",
+    "date": "2026-08-02"
   },
   {
     "id": "26c5841ee613",
@@ -285,6 +318,39 @@
     "date": "2026-07-05"
   },
   {
+    "id": "0bc0d5db79e0",
+    "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
+    "link": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
+    "summary": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI podcast No Priors, highlighted how t",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Tue, 28 Jul 2026 15:00:19 +0000",
+    "fetched_at": "2026-08-02 15:49",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "e9c7d242f0b7",
+    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+    "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+    "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Tue, 28 Jul 2026 09:18:57 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
     "id": "82b52c01ab10",
     "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
     "link": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/",
@@ -364,6 +430,56 @@
     "pub_date": "Tue, 23 Jun 2026 09:00:00 +0000",
     "fetched_at": "2026-07-05 13:10",
     "date": "2026-07-05"
+  },
+  {
+    "id": "e6a711da70f4",
+    "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
+    "link": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
+    "summary": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In f",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Tue, 21 Jul 2026 22:35:45 +0000",
+    "fetched_at": "2026-08-02 15:49",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "28359da1c64b",
+    "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
+    "link": "https://blogs.nvidia.com/blog/vera-rubin/",
+    "summary": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure and Nebius. Spanning 350+ factory sites in 30 countries, Vera Rubin has the largest, most mature rack-sc",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Tue, 21 Jul 2026 15:36:43 +0000",
+    "fetched_at": "2026-08-02 15:49",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "6d5a86555da5",
+    "title": "Advancing next-gen AI with materials science innovation",
+    "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+    "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI ",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Tue, 21 Jul 2026 10:37:34 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
   },
   {
     "id": "9c90e6115d71",
@@ -719,6 +835,39 @@
     "date": "2026-06-07"
   },
   {
+    "id": "fc9dc4781485",
+    "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
+    "summary": "Back to school means balancing assignments, deadlines and downtime. GeForce NOW makes it easy to have it all. With cloud gaming, everyday laptops used for class can also become GeForce RTX-powered gaming setups. When it’s time to switch from studying to gaming, members can jump into Halo: Campaign E",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Thu, 30 Jul 2026 13:00:20 +0000",
+    "fetched_at": "2026-08-02 15:49",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "d3ef4a34cd19",
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the saf",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Thu, 30 Jul 2026 10:15:19 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
     "id": "2f29b6393442",
     "title": "NVIDIA Research Advances Robotics From Simulation to the Real World",
     "link": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
@@ -783,6 +932,56 @@
     "pub_date": "Thu, 25 Jun 2026 14:22:59 +0000",
     "fetched_at": "2026-07-05 13:10",
     "date": "2026-07-05"
+  },
+  {
+    "id": "e5c367077721",
+    "title": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
+    "summary": "Lock in and load up the cloud. GFN Thursday brings fresh updates and new adventures, all ready to play without waiting for downloads. Set sail in Path of Exile: Curse of the Allflame and charge in Battlefield 6 Season 4 both launching major content for members this week. Then revisit Capcom legends ",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Thu, 23 Jul 2026 13:00:16 +0000",
+    "fetched_at": "2026-08-02 15:49",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "7f188a0c6b4b",
+    "title": "How AI helps scientists design the next generation of medicines",
+    "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+    "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered pro",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Thu, 23 Jul 2026 12:00:00 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "b1725220ee0b",
+    "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
+    "link": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+    "summary": "NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most powerful AI platforms fully online for the students, researchers and faculty at the U.S. military’s flagship graduate u",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Thu, 23 Jul 2026 02:00:46 +0000",
+    "fetched_at": "2026-08-02 15:49",
+    "date": "2026-08-02"
   },
   {
     "id": "bf40a95dd6a6",
@@ -2687,6 +2886,176 @@
     "date": "2026-07-05"
   },
   {
+    "id": "e092adfe409a",
+    "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+    "link": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+    "summary": "Article URL: https://www.wafer.ai/blog/kimi-k3-mi355x Comments URL: https://news.ycombinator.com/item?id=49141073 Points: 107 # Comments: 12",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 02 Aug 2026 04:21:14 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "beff2b746f54",
+    "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+    "link": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+    "summary": "Article URL: http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html Comments URL: https://news.ycombinator.com/item?id=49140702 Points: 45 # Comments: 2",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 02 Aug 2026 03:12:52 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "118da8cb684e",
+    "title": "Linux desktop market share has hit over 10% in North America",
+    "link": "https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/",
+    "summary": "Article URL: https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/ Comments URL: https://news.ycombinator.com/item?id=49140696 Points: 157 # Comments: 65",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 02 Aug 2026 03:10:00 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "6782fe8ab19e",
+    "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
+    "link": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
+    "summary": "Article URL: https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific# Comments URL: https://news.ycombinator.com/item?id=49140599 Points: 37 # Comments: 15",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 02 Aug 2026 02:51:15 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "7443a99e46cf",
+    "title": "Four Time Scales for Technology Development and Deployment",
+    "link": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
+    "summary": "Article URL: https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/ Comments URL: https://news.ycombinator.com/item?id=49140487 Points: 25 # Comments: 4",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 02 Aug 2026 02:26:52 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "08d85469fdca",
+    "title": "When random.bytes() runs but doesn't work",
+    "link": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
+    "summary": "Article URL: https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt Comments URL: https://news.ycombinator.com/item?id=49140405 Points: 26 # Comments: 9",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 02 Aug 2026 02:08:26 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "d8f8d4c8485f",
+    "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+    "link": "https://github.com/tom-ilan/cycloidal_gearbox",
+    "summary": "Article URL: https://github.com/tom-ilan/cycloidal_gearbox Comments URL: https://news.ycombinator.com/item?id=49140396 Points: 104 # Comments: 21",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 02 Aug 2026 02:07:09 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "93ea7c6feab3",
+    "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+    "link": "https://costperprompt.com/",
+    "summary": "Article URL: https://costperprompt.com/ Comments URL: https://news.ycombinator.com/item?id=49140340 Points: 17 # Comments: 7",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 02 Aug 2026 01:56:44 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "9cdef28e33cb",
+    "title": "Go 1.27 Interactive Tour",
+    "link": "https://victoriametrics.com/blog/go-1-27/index.html",
+    "summary": "Article URL: https://victoriametrics.com/blog/go-1-27/index.html Comments URL: https://news.ycombinator.com/item?id=49140218 Points: 166 # Comments: 44",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 02 Aug 2026 01:35:51 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "85835ecd8ca3",
+    "title": "ASRock BC-250: Building the Budget Steam Machine",
+    "link": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+    "summary": "Article URL: https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/ Comments URL: https://news.ycombinator.com/item?id=49140213 Points: 50 # Comments: 14",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 02 Aug 2026 01:35:11 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
     "id": "c9362cfd1286",
     "title": "Microsoft degrades functionality of perpetually-licensed offline products",
     "link": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
@@ -3883,6 +4252,202 @@
     "date": "2026-07-05"
   },
   {
+    "id": "88ab0b7f770b",
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Sat, 01 Aug 2026 20:26:04 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "c3a681b52914",
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Sat, 01 Aug 2026 19:45:45 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "46b49e93011a",
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+    "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Sat, 01 Aug 2026 17:07:34 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "cafcb1a9de8c",
+    "title": "This $9 key physically locks your most addictive apps",
+    "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+    "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Sat, 01 Aug 2026 15:58:17 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "b83b452a0141",
+    "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
+    "link": "https://www.qbitai.com/2026/08/464781.html",
+    "summary": "具身智能的τ（bushi）",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 01 Aug 2026 10:45:46 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "87a92a50da46",
+    "title": "获奖之后，王虹最想感谢的人",
+    "link": "https://www.qbitai.com/2026/08/464761.html",
+    "summary": "\"他真的给了我很大的帮助\"",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 01 Aug 2026 10:38:47 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "12bfc5e3be0a",
+    "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
+    "link": "https://www.qbitai.com/2026/08/464713.html",
+    "summary": "狂刷3小时！",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 01 Aug 2026 10:33:18 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "6108e1deacfb",
+    "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+    "link": "https://www.qbitai.com/2026/08/464693.html",
+    "summary": "对前沿实验室估值悲观",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 01 Aug 2026 05:02:49 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "d14561e2ac66",
+    "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+    "link": "https://www.qbitai.com/2026/08/464532.html",
+    "summary": "下一场竞争，是谁能造出更多“有用的世界”",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 01 Aug 2026 04:53:33 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "00d72147c01a",
+    "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
+    "link": "https://www.qbitai.com/2026/08/464452.html",
+    "summary": "三本教科书，救活英伟达",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 01 Aug 2026 03:38:10 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "af5289c98365",
+    "title": "Anthropic模型，也失控了。。。",
+    "link": "https://www.qbitai.com/2026/08/464412.html",
+    "summary": "14万次测试翻旧账",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 01 Aug 2026 03:18:46 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "c72126523f40",
+    "title": "AI顶会现场，见到了一家美妆巨头",
+    "link": "https://www.qbitai.com/2026/08/464364.html",
+    "summary": "欧莱雅把AI装进mei'zhuang'quan'lian'lu",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 01 Aug 2026 02:52:18 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
     "id": "70b9fae892c6",
     "title": "AI agents are not your “coworkers”",
     "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
@@ -3964,6 +4529,120 @@
     "pub_date": "Mon, 29 Jun 2026 10:59:38 +0000",
     "fetched_at": "2026-07-05 13:12",
     "date": "2026-07-05"
+  },
+  {
+    "id": "bd9265e44747",
+    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+    "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Mon, 27 Jul 2026 18:00:00 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "25cc5f27cc6a",
+    "title": "The path to artificial superintelligence",
+    "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+    "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Mon, 27 Jul 2026 12:00:00 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "31a791e8e2a8",
+    "title": "Closing the data loop in AI-driven drug discovery",
+    "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+    "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Mon, 27 Jul 2026 11:40:16 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "d10dbf6ad8c7",
+    "title": "Building the enterprise environment for agentic AI",
+    "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+    "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, p",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Mon, 27 Jul 2026 11:32:58 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "67d8a38310d5",
+    "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+    "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+    "summary": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts. Cybersecurity is among the top three benefi",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Mon, 27 Jul 2026 09:00:07 +0000",
+    "fetched_at": "2026-08-02 15:49",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "4fb09e85c1b8",
+    "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+    "link": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+    "summary": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating with industry leaders Cadence and Synopsys to optimize critical electronic design automation (EDA) ap",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Mon, 27 Jul 2026 00:45:42 +0000",
+    "fetched_at": "2026-08-02 15:49",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "61d13d198506",
+    "title": "China’s AI models have Trump’s AI world at war with itself",
+    "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sa",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Mon, 20 Jul 2026 18:00:00 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
   },
   {
     "id": "0db713e27495",
@@ -4153,6 +4832,140 @@
     "pub_date": "Mon, 01 Jun 2026 05:00:56 +0000",
     "fetched_at": "2026-06-07 19:48",
     "date": "2026-06-07"
+  },
+  {
+    "id": "1d34eb822975",
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 31 Jul 2026 22:47:26 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "ef91c0cf4706",
+    "title": "India is starting to pay for apps, not just download them",
+    "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+    "summary": "India's app market generated a record $345 million in Q2.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 31 Jul 2026 21:07:45 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "cebdf34cbbc8",
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 31 Jul 2026 19:47:28 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "734a51283c78",
+    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+    "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+    "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 31 Jul 2026 17:26:32 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "1539977fb106",
+    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+    "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+    "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 31 Jul 2026 16:49:08 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "02a679ae68f9",
+    "title": "Siri AI could come with a paywall for power users",
+    "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+    "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 31 Jul 2026 16:08:18 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "dcb42dd94f48",
+    "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
+    "link": "https://www.qbitai.com/2026/07/464328.html",
+    "summary": "开源项目GitHub狂揽8000+Star",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 31 Jul 2026 09:11:32 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "6c03018be35d",
+    "title": "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
+    "link": "https://www.qbitai.com/2026/07/464329.html",
+    "summary": "行业独家的30s视频原生直出",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 31 Jul 2026 08:48:22 +0000",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
   },
   {
     "id": "fd1b5320312e",
@@ -4502,6 +5315,23 @@
     "pub_date": "Fri, 29 May 2026 08:32:52 +0000",
     "fetched_at": "2026-05-30 17:52",
     "date": "2026-05-30"
+  },
+  {
+    "id": "8746e4e02a60",
+    "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
+    "link": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
+    "summary": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress. Building on NVIDIA founder and CEO Jensen Huang’s visit to Korea last month, thi",
+    "source": "英伟达 AI Blog",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "算力",
+      "硬件"
+    ],
+    "image": "",
+    "pub_date": "Fri, 24 Jul 2026 04:34:27 +0000",
+    "fetched_at": "2026-08-02 15:49",
+    "date": "2026-08-02"
   },
   {
     "id": "fd275f985643",
@@ -5628,6 +6458,176 @@
     "pub_date": "Fri, 03 Jul 2026 05:24:06 +0000",
     "fetched_at": "2026-07-05 13:10",
     "date": "2026-07-05"
+  },
+  {
+    "id": "23815ff3aa43",
+    "title": "Claude黑进三家真公司！Anthropic吓坏了",
+    "link": "https://aiera.com.cn/2026/08/02/other/admin/106930/claude%e9%bb%91%e8%bf%9b%e4%b8%89%e5%ae%b6%e7%9c%9f%e5%85%ac%e5%8f%b8%ef%bc%81anthropic%e5%90%93%e5%9d%8f%e4%ba%86/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; Anthropic又来「作死」了&#8230; 就在刚刚，A [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-08-02",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "6291576413dc",
+    "title": "突发，谷歌地球紧急撤回Nano Banana 2生图功能！",
+    "link": "https://aiera.com.cn/2026/08/02/other/admin/106913/%e7%aa%81%e5%8f%91%ef%bc%8c%e8%b0%b7%e6%ad%8c%e5%9c%b0%e7%90%83%e7%b4%a7%e6%80%a5%e6%92%a4%e5%9b%9enano-banana-2%e7%94%9f%e5%9b%be%e5%8a%9f%e8%83%bd%ef%bc%81/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 赛博版「言出法随」到了全新的境界！ 昨天，谷歌把最新图像生成 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-08-02",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "5cb2212130db",
+    "title": "奥特曼承认：高估了AI抢饭碗！黄仁勋：失业论完全搞反了",
+    "link": "https://aiera.com.cn/2026/08/02/other/admin/106893/%e5%a5%a5%e7%89%b9%e6%9b%bc%e6%89%bf%e8%ae%a4%ef%bc%9a%e9%ab%98%e4%bc%b0%e4%ba%86ai%e6%8a%a2%e9%a5%ad%e7%a2%97%ef%bc%81%e9%bb%84%e4%bb%81%e5%8b%8b%ef%bc%9a%e5%a4%b1%e4%b8%9a%e8%ae%ba%e5%ae%8c%e5%85%a8/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 如果OpenAI不是第一家由AI CEO管理的大公司，我会感 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-08-02",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "baaef985b444",
+    "title": "硅谷百亿美金押注「AI造AI」，清华系创业团队反手把模型开源了！",
+    "link": "https://aiera.com.cn/2026/08/02/other/admin/106883/%e7%a1%85%e8%b0%b7%e7%99%be%e4%ba%bf%e7%be%8e%e9%87%91%e6%8a%bc%e6%b3%a8%e3%80%8cai%e9%80%a0ai%e3%80%8d%ef%bc%8c%e6%b8%85%e5%8d%8e%e7%b3%bb%e5%88%9b%e4%b8%9a%e5%9b%a2%e9%98%9f%e5%8f%8d%e6%89%8b/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 2026年，AI行业最昂贵的新故事，已经不只是「训练一个更大 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-08-02",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "86262b0fc7c6",
+    "title": "OpenAI全球用户破10亿！全新模型Astra曝光，疑似GPT-6",
+    "link": "https://aiera.com.cn/2026/08/02/other/admin/106867/openai%e5%85%a8%e7%90%83%e7%94%a8%e6%88%b7%e7%a0%b410%e4%ba%bf%ef%bc%81%e5%85%a8%e6%96%b0%e6%a8%a1%e5%9e%8bastra%e6%9b%9d%e5%85%89%ef%bc%8c%e7%96%91%e4%bc%bcgpt-6/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 就在刚刚，OpenAI官宣：全球活跃用户数已成功突破10亿大 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-08-02",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "c8499fd8d8fc",
+    "title": "超过1B参数都是浪费？多模态情感模型进入「小」时代 | ACM MM&#8217;26",
+    "link": "https://aiera.com.cn/2026/08/02/other/admin/106846/%e8%b6%85%e8%bf%871b%e5%8f%82%e6%95%b0%e9%83%bd%e6%98%af%e6%b5%aa%e8%b4%b9%ef%bc%9f%e5%a4%9a%e6%a8%a1%e6%80%81%e6%83%85%e6%84%9f%e6%a8%a1%e5%9e%8b%e8%bf%9b%e5%85%a5%e3%80%8c%e5%b0%8f%e3%80%8d%e6%97%b6/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 多模态大语言模型正在改变情感识别的研究范式。 与传统方法只输 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-08-02",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "465608e71df1",
+    "title": "哈佛华人教授尹希，首谈GPT-5.6",
+    "link": "https://aiera.com.cn/2026/08/02/other/admin/106835/%e5%93%88%e4%bd%9b%e5%8d%8e%e4%ba%ba%e6%95%99%e6%8e%88%e5%b0%b9%e5%b8%8c%ef%bc%8c%e9%a6%96%e8%b0%88gpt-5-6/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 哈佛最年轻华人正教授，入职OpenAI后首次出镜！ 深度体验 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-08-02",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "1e857cdd0f1a",
+    "title": "成为父亲后，奥特曼不再害怕AGI毁灭世界",
+    "link": "https://aiera.com.cn/2026/08/02/other/admin/106814/%e6%88%90%e4%b8%ba%e7%88%b6%e4%ba%b2%e5%90%8e%ef%bc%8c%e5%a5%a5%e7%89%b9%e6%9b%bc%e4%b8%8d%e5%86%8d%e5%ae%b3%e6%80%95agi%e6%af%81%e7%81%ad%e4%b8%96%e7%95%8c/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; AGI已经悄然降临。 就在刚刚，奥特曼表示GPT-5.6已经 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-08-02",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "503d1942f6c9",
+    "title": "一夜之间，Anthropic内部都在搞「智能体图」！",
+    "link": "https://aiera.com.cn/2026/08/02/other/admin/106789/%e4%b8%80%e5%a4%9c%e4%b9%8b%e9%97%b4%ef%bc%8canthropic%e5%86%85%e9%83%a8%e9%83%bd%e5%9c%a8%e6%90%9e%e3%80%8c%e6%99%ba%e8%83%bd%e4%bd%93%e5%9b%be%e3%80%8d%ef%bc%81/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; 「别再给 Claude 写提示词了，你该搭一张能让它自己跑起 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-08-02",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "f702d3549d0e",
+    "title": "ChatGPT突发封杀令！全球AI写手一夜断粮",
+    "link": "https://aiera.com.cn/2026/08/01/other/admin/106776/chatgpt%e7%aa%81%e5%8f%91%e5%b0%81%e6%9d%80%e4%bb%a4%ef%bc%81%e5%85%a8%e7%90%83ai%e5%86%99%e6%89%8b%e4%b8%80%e5%a4%9c%e6%96%ad%e7%b2%ae/",
+    "summary": "&nbsp;&nbsp;新智元报道 &nbsp; AI写作的黄金时代，正在崩塌！ 进入，模型一代比一代强，文章 [&hellip;]",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-08-01",
+    "fetched_at": "2026-08-02 15:48",
+    "date": "2026-08-02"
   },
   {
     "id": "e21a26af35aa",

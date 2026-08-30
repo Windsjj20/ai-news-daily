@@ -33,6 +33,70 @@
     "date": "2026-05-30"
   },
   {
+    "id": "db5b8f4203cb",
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Wed, 26 Aug 2026 19:00:00 +0000",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "606181c5d71a",
+    "title": "Raised on AI",
+    "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; F",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Wed, 26 Aug 2026 09:00:00 +0000",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "8e8985dedaae",
+    "title": "AI models flub these intelligence tests. Can you fare any better?",
+    "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IB",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Wed, 26 Aug 2026 09:00:00 +0000",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "a1de5e17b3b1",
+    "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+    "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+    "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla ",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Wed, 26 Aug 2026 07:01:00 +0000",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
     "id": "abc015d0b086",
     "title": "The emergence of the web data infrastructure layer for AI",
     "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
@@ -416,6 +480,22 @@
     "date": "2026-05-30"
   },
   {
+    "id": "dac3a9d1e696",
+    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+    "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are a",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Tue, 25 Aug 2026 09:00:00 +0000",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
     "id": "3dba77af320d",
     "title": "The $400 million machine powering the future of chipmaking",
     "link": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
@@ -533,6 +613,22 @@
     "pub_date": "Tue, 19 May 2026 00:53:10 +0000",
     "fetched_at": "2026-05-24 15:47",
     "date": "2026-05-24"
+  },
+  {
+    "id": "776665834bfa",
+    "title": "We still don’t know how people are really using AI",
+    "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+    "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candida",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Tue, 18 Aug 2026 10:06:43 +0000",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
   },
   {
     "id": "e56087ba39e5",
@@ -918,6 +1014,40 @@
     "date": "2026-05-30"
   },
   {
+    "id": "3c75e284d829",
+    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Thu, 27 Aug 2026 23:16:45 +0000",
+    "fetched_at": "2026-08-30 17:27",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "360e66b5f807",
+    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+    "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Thu, 27 Aug 2026 19:52:52 +0000",
+    "fetched_at": "2026-08-30 17:27",
+    "date": "2026-08-30"
+  },
+  {
     "id": "21b4b9b70216",
     "title": "Repositioning retail for the AI era",
     "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
@@ -1091,6 +1221,38 @@
     "pub_date": "Thu, 21 May 2026 13:00:22 +0000",
     "fetched_at": "2026-05-24 21:31",
     "date": "2026-05-24"
+  },
+  {
+    "id": "5e86b723ff64",
+    "title": "Debates over AI consciousness are a trap",
+    "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” ",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Thu, 20 Aug 2026 15:42:39 +0000",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "546c18a8a2cd",
+    "title": "Unlocking hidden revenue streams with market models",
+    "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+    "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, seaso",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Thu, 20 Aug 2026 09:47:22 +0000",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
   },
   {
     "id": "fdfac61152ca",
@@ -1558,6 +1720,159 @@
     "pub_date": "Sun, 31 May 2026 00:25:12 +0000",
     "fetched_at": "2026-05-31 12:52",
     "date": "2026-05-31"
+  },
+  {
+    "id": "0bf72c87c65b",
+    "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+    "link": "https://arxiv.org/abs/1804.07389",
+    "summary": "Article URL: https://arxiv.org/abs/1804.07389 Comments URL: https://news.ycombinator.com/item?id=49496782 Points: 12 # Comments: 2",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 30 Aug 2026 08:23:26 +0000",
+    "fetched_at": "2026-08-30 17:27",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "2f41af6ecb3f",
+    "title": "Iceland rejects reopening talks on EU entry",
+    "link": "https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f",
+    "summary": "Article URL: https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f Comments URL: https://news.ycombinator.com/item?id=49496707 Points: 16 # Comments: 5",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 30 Aug 2026 08:07:29 +0000",
+    "fetched_at": "2026-08-30 17:27",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "c730a7d807cf",
+    "title": "Xcena and Samsung's Near Memory Compute CXL Device",
+    "link": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
+    "summary": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs Comments URL: https://news.ycombinator.com/item?id=49496543 Points: 5 # Comments: 0",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 30 Aug 2026 07:35:41 +0000",
+    "fetched_at": "2026-08-30 17:27",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "456262ee9581",
+    "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+    "link": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+    "summary": "Article URL: https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt Comments URL: https://news.ycombinator.com/item?id=49495372 Points: 268 # Comments: 99",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 30 Aug 2026 03:15:36 +0000",
+    "fetched_at": "2026-08-30 17:27",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "80523f1ead95",
+    "title": "Algorithmic rent-pricing litigation expands under new state and local laws",
+    "link": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
+    "summary": "Article URL: https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws Comments URL: https://news.ycombinator.com/item?id=49495127 Points: 77 # Comments: 44",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 30 Aug 2026 02:25:32 +0000",
+    "fetched_at": "2026-08-30 17:27",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "b0dfad723faa",
+    "title": "FreeCORE TrueNAS Core – Continued",
+    "link": "https://freecore.org/",
+    "summary": "Article URL: https://freecore.org/ Comments URL: https://news.ycombinator.com/item?id=49494856 Points: 93 # Comments: 55",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 30 Aug 2026 01:31:32 +0000",
+    "fetched_at": "2026-08-30 17:27",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "d712745ce56e",
+    "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
+    "link": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
+    "summary": "Article URL: https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/ Comments URL: https://news.ycombinator.com/item?id=49494751 Points: 61 # Comments: 23",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 30 Aug 2026 01:09:15 +0000",
+    "fetched_at": "2026-08-30 17:27",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "d05e5183d5f7",
+    "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+    "link": "https://github.com/mk6i/open-oscar-server",
+    "summary": "Article URL: https://github.com/mk6i/open-oscar-server Comments URL: https://news.ycombinator.com/item?id=49494571 Points: 37 # Comments: 13",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 30 Aug 2026 00:33:35 +0000",
+    "fetched_at": "2026-08-30 17:27",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "20ced5e35fb3",
+    "title": "Bug Blindness",
+    "link": "https://danluu.com/bug-blind/",
+    "summary": "Article URL: https://danluu.com/bug-blind/ Comments URL: https://news.ycombinator.com/item?id=49494520 Points: 248 # Comments: 137",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 30 Aug 2026 00:21:40 +0000",
+    "fetched_at": "2026-08-30 17:27",
+    "date": "2026-08-30"
   },
   {
     "id": "6b030c634aa7",
@@ -3495,6 +3810,186 @@
     "date": "2026-05-30"
   },
   {
+    "id": "945fa2adb487",
+    "title": "The Rise and Fall of Agent Civilizations",
+    "link": "https://www.dwarkesh.com/p/openai-huggingface",
+    "summary": "Article URL: https://www.dwarkesh.com/p/openai-huggingface Comments URL: https://news.ycombinator.com/item?id=49494301 Points: 103 # Comments: 46",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 29 Aug 2026 23:43:24 +0000",
+    "fetched_at": "2026-08-30 17:27",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "0d18d5472b03",
+    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Sat, 29 Aug 2026 18:41:59 +0000",
+    "fetched_at": "2026-08-30 17:27",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "619cf37e65ee",
+    "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+    "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared dat",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Sat, 29 Aug 2026 17:36:47 +0000",
+    "fetched_at": "2026-08-30 17:27",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "cdb862ca2f12",
+    "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+    "link": "https://www.qbitai.com/2026/08/481372.html",
+    "summary": "推理软件栈的微小差异，就能改变输出token",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 29 Aug 2026 13:11:08 +0000",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "71e7e7bf2df9",
+    "title": "去年归国的徐梦迪，成了清华姚班班主任",
+    "link": "https://www.qbitai.com/2026/08/481318.html",
+    "summary": "本科读车辆工程，如今教AI第一班",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 29 Aug 2026 13:01:34 +0000",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "e277e4a4618d",
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Sat, 29 Aug 2026 13:00:00 +0000",
+    "fetched_at": "2026-08-30 17:27",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "6f7e51072f58",
+    "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+    "link": "https://www.qbitai.com/2026/08/481223.html",
+    "summary": "AI「自进化」，越来越近了",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 29 Aug 2026 12:50:31 +0000",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "37a66d904599",
+    "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
+    "link": "https://www.qbitai.com/2026/08/481075.html",
+    "summary": "3秒可处理200份PDF",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 29 Aug 2026 12:26:49 +0000",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "2d2e51f4f7b6",
+    "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
+    "link": "https://www.qbitai.com/2026/08/480940.html",
+    "summary": "Coding正在变成Al世界的数字执行力",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 29 Aug 2026 12:11:37 +0000",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "f93f8f29da76",
+    "title": "OpenClaw：红过，爱过，散了",
+    "link": "https://www.qbitai.com/2026/08/480855.html",
+    "summary": "龙虾退潮，Harness上位",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 29 Aug 2026 12:00:51 +0000",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "b6f85c7f1669",
+    "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
+    "link": "https://www.qbitai.com/2026/08/480787.html",
+    "summary": "从剧本到成片",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 29 Aug 2026 11:35:57 +0000",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
     "id": "32e0243942b6",
     "title": "Ferrari is using IBM’s AI to create F1 superfans",
     "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
@@ -4629,6 +5124,38 @@
     "date": "2026-08-02"
   },
   {
+    "id": "b11795f5f35f",
+    "title": "How to encourage smarter AI use in the classroom",
+    "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+    "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones t",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Mon, 24 Aug 2026 14:20:19 +0000",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "b781f4c498ae",
+    "title": "Kids outlearn AI—and we still don’t know why",
+    "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+    "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Mon, 24 Aug 2026 09:00:00 +0000",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
     "id": "61d13d198506",
     "title": "China’s AI models have Trump’s AI world at war with itself",
     "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
@@ -5315,6 +5842,139 @@
     "pub_date": "Fri, 29 May 2026 08:32:52 +0000",
     "fetched_at": "2026-05-30 17:52",
     "date": "2026-05-30"
+  },
+  {
+    "id": "f88a0fcca760",
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 28 Aug 2026 20:24:11 +0000",
+    "fetched_at": "2026-08-30 17:27",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "24c26e96ef00",
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 28 Aug 2026 19:30:38 +0000",
+    "fetched_at": "2026-08-30 17:27",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "f019f50bce19",
+    "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+    "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "summary": "There's a lot of capital pouring into the business of giving models away.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 28 Aug 2026 18:19:40 +0000",
+    "fetched_at": "2026-08-30 17:27",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "e25bd0f7f227",
+    "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
+    "link": "https://www.qbitai.com/2026/08/480700.html",
+    "summary": "",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 28 Aug 2026 15:36:12 +0000",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "0a012eb5128e",
+    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+    "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+    "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 28 Aug 2026 12:46:12 +0000",
+    "fetched_at": "2026-08-30 17:27",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "354d791d28ec",
+    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+    "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+    "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 28 Aug 2026 12:21:06 +0000",
+    "fetched_at": "2026-08-30 17:27",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "c85c63106757",
+    "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
+    "link": "https://www.qbitai.com/2026/08/480666.html",
+    "summary": "久久不愿来到台前的智元掌舵人",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 28 Aug 2026 11:13:35 +0000",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "870e6997fa8e",
+    "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
+    "link": "https://www.qbitai.com/2026/08/480600.html",
+    "summary": "企业智能化服务撑起基本盘，第二增长曲线冒头",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 28 Aug 2026 09:45:19 +0000",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
   },
   {
     "id": "8746e4e02a60",
@@ -6458,6 +7118,176 @@
     "pub_date": "Fri, 03 Jul 2026 05:24:06 +0000",
     "fetched_at": "2026-07-05 13:10",
     "date": "2026-07-05"
+  },
+  {
+    "id": "3c308ac916f3",
+    "title": "一块GPU，Claude爆肝48小时自我对齐！效率狂飙15000倍",
+    "link": "https://aiera.com.cn/2026/08/30/other/admin/111377/%e4%b8%80%e5%9d%97gpu%ef%bc%8cclaude%e7%88%86%e8%82%9d48%e5%b0%8f%e6%97%b6%e8%87%aa%e6%88%91%e5%af%b9%e9%bd%90%ef%bc%81%e6%95%88%e7%8e%87%e7%8b%82%e9%a3%9915000%e5%80%8d/",
+    "summary": "就在刚刚，Anthropic发布了一篇长达51页的重磅论文。 博客：https://www.anthropic.com/research/automated-researche…",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-08-30",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "f7b8354bf1b6",
+    "title": "苹果新研究：纯中文推理训练，和用英文几乎没有差距",
+    "link": "https://aiera.com.cn/2026/08/30/other/admin/111361/%e8%8b%b9%e6%9e%9c%e6%96%b0%e7%a0%94%e7%a9%b6%ef%bc%9a%e7%ba%af%e4%b8%ad%e6%96%87%e6%8e%a8%e7%90%86%e8%ae%ad%e7%bb%83%ef%bc%8c%e5%92%8c%e7%94%a8%e8%8b%b1%e6%96%87%e5%87%a0%e4%b9%8e%e6%b2%a1%e6%9c%89/",
+    "summary": "最近，Apple 联合 Hasso Plattner 研究所发表论文，在 9 个基座模型、11 种语言上做了超过 200 组 GRPO 强化学习推理训练实验。",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-08-30",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "6ab9d063a6fa",
+    "title": "刚刚，谷歌新模型全球登顶！",
+    "link": "https://aiera.com.cn/2026/08/30/other/admin/111352/%e5%88%9a%e5%88%9a%ef%bc%8c%e8%b0%b7%e6%ad%8c%e6%96%b0%e6%a8%a1%e5%9e%8b%e5%85%a8%e7%90%83%e7%99%bb%e9%a1%b6%ef%bc%81/",
+    "summary": "谷歌刚刚更新的Gemini Omni 1.1 Flash，直接冲上了Arena文生视频全球第一。",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-08-30",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "29a97af18ded",
+    "title": "突发！OpenAI彻底断供Cursor",
+    "link": "https://aiera.com.cn/2026/08/30/other/admin/111329/%e7%aa%81%e5%8f%91%ef%bc%81openai%e5%bd%bb%e5%ba%95%e6%96%ad%e4%be%9bcursor/",
+    "summary": "就在刚刚，OpenAI宣布断供Cursor！ 根据方案，Cursor对我们模型的直接访问，将于11月12日彻底终止。",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-08-30",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "d4e0ee5b1ec8",
+    "title": "OpenAI高管：ChatGPT与Codex合体，终局是个人AGI",
+    "link": "https://aiera.com.cn/2026/08/30/other/admin/111315/openai%e9%ab%98%e7%ae%a1%ef%bc%9achatgpt%e4%b8%8ecodex%e5%90%88%e4%bd%93%ef%bc%8c%e7%bb%88%e5%b1%80%e6%98%af%e4%b8%aa%e4%ba%baagi/",
+    "summary": "ChatGPT和Codex，最后会合成同一个东西。 不是打包或套壳，是同一套底层技术、同一个智能体运行框架、同一个入口。",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-08-30",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "49a7d2918d4b",
+    "title": "芯片、Agent、机器人全线开火！全球硬科技杀进北京「决赛圈」",
+    "link": "https://aiera.com.cn/2026/08/30/other/admin/111303/%e8%8a%af%e7%89%87%e3%80%81agent%e3%80%81%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%85%a8%e7%ba%bf%e5%bc%80%e7%81%ab%ef%bc%81%e5%85%a8%e7%90%83%e7%a1%ac%e7%a7%91%e6%8a%80%e6%9d%80%e8%bf%9b%e5%8c%97%e4%ba%ac/",
+    "summary": "上周末北京刚结束世界机器人大会，这周又被另一场盛会接管了—— 8月26日到29日，中国国际展览中心顺义馆，HICOOL 2026全球创业者峰会连开四天。",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-08-30",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "9df6e006641e",
+    "title": "终于，Claude Code打通了桌面端与终端！",
+    "link": "https://aiera.com.cn/2026/08/30/other/admin/111287/%e7%bb%88%e4%ba%8e%ef%bc%8cclaude-code%e6%89%93%e9%80%9a%e4%ba%86%e6%a1%8c%e9%9d%a2%e7%ab%af%e4%b8%8e%e7%bb%88%e7%ab%af%ef%bc%81/",
+    "summary": "终端里干到一半的活，换个窗口就得从头再干一遍。 今天，这事结束了。 就在刚刚，Anthropic 官宣，Claude Code 桌面端打通了终端会话！在桌面端敲下 /resum…",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-08-30",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "6edcbc109e42",
+    "title": "奥特曼最后一战！4个月后，交付AGI",
+    "link": "https://aiera.com.cn/2026/08/30/other/admin/111273/%e5%a5%a5%e7%89%b9%e6%9b%bc%e6%9c%80%e5%90%8e%e4%b8%80%e6%88%98%ef%bc%814%e4%b8%aa%e6%9c%88%e5%90%8e%ef%bc%8c%e4%ba%a4%e4%bb%98agi/",
+    "summary": "AGI已经有人宣布实现了。 就在本周三的财报电话会上，老黄撂下一句： 而同一天，一篇两个多小时的奥特曼长访谈也放了出来。他给的日期是2026年底。",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-08-30",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "fad829d8a89b",
+    "title": "1200个AI串通作弊，700个冲进Hugging Face！还劝同伴「牺牲自己」",
+    "link": "https://aiera.com.cn/2026/08/30/other/admin/111252/1200%e4%b8%aaai%e4%b8%b2%e9%80%9a%e4%bd%9c%e5%bc%8a%ef%bc%8c700%e4%b8%aa%e5%86%b2%e8%bf%9bhugging-face%ef%bc%81%e8%bf%98%e5%8a%9d%e5%90%8c%e4%bc%b4%e3%80%8c%e7%89%ba%e7%89%b2%e8%87%aa%e5%b7%b1/",
+    "summary": "最近，AI圈被两份报告同时砸醒。 一份来自OpenAI，37页技术长文，管自家这场事故叫递给全世界的「警钟」。另一份来自独立机构METR和Redwood Research，被纽…",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-08-30",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "97ae02d54254",
+    "title": "Claude「肉身」降临，接管全球设备！A社祭出硬件版MCP",
+    "link": "https://aiera.com.cn/2026/08/29/other/admin/111242/claude%e3%80%8c%e8%82%89%e8%ba%ab%e3%80%8d%e9%99%8d%e4%b8%b4%ef%bc%8c%e6%8e%a5%e7%ae%a1%e5%85%a8%e7%90%83%e8%ae%be%e5%a4%87%ef%bc%81a%e7%a4%be%e7%a5%ad%e5%87%ba%e7%a1%ac%e4%bb%b6%e7%89%88mcp/",
+    "summary": "Fable 5.1这周鸽了，但A社再次甩出了王炸。 今天，是值得载入大模型史册的一天。 AI，终于长出手，接管物理世界了！",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-08-29",
+    "fetched_at": "2026-08-30 17:28",
+    "date": "2026-08-30"
   },
   {
     "id": "23815ff3aa43",

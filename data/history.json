@@ -249,6 +249,22 @@
     "date": "2026-06-07"
   },
   {
+    "id": "c0e30f013c2a",
+    "title": "Facilitating AI integration with simplicity at scale",
+    "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make dec",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Wed, 02 Sep 2026 14:00:00 +0000",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
     "id": "b7a1a19f77c0",
     "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
     "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
@@ -3082,6 +3098,107 @@
     "date": "2026-06-07"
   },
   {
+    "id": "2df6acdddb75",
+    "title": "Site Is Closed on Sundays",
+    "link": "https://v7.robweychert.com/",
+    "summary": "Article URL: https://v7.robweychert.com/ Comments URL: https://news.ycombinator.com/item?id=49583842 Points: 67 # Comments: 59",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 06 Sep 2026 06:23:05 +0000",
+    "fetched_at": "2026-09-06 16:34",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "af35208ca0d3",
+    "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+    "link": "https://www.qbitai.com/2026/09/484890.html",
+    "summary": "",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sun, 06 Sep 2026 04:40:15 +0000",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "48b44e5a0b18",
+    "title": "AMD Based FreeBSD Desktop Reloaded",
+    "link": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+    "summary": "Article URL: https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/ Comments URL: https://news.ycombinator.com/item?id=49582719 Points: 41 # Comments: 1",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 06 Sep 2026 02:24:57 +0000",
+    "fetched_at": "2026-09-06 16:34",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "7d04c432b367",
+    "title": "AI, Tools and Transformation",
+    "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+    "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 40 # Comments: 14",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 06 Sep 2026 02:12:46 +0000",
+    "fetched_at": "2026-09-06 16:34",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "dd70422f29a2",
+    "title": "GPT-6 Astra on robot arms",
+    "link": "https://openai.robocurve.org/gpt-6-astra/",
+    "summary": "Article URL: https://openai.robocurve.org/gpt-6-astra/ Comments URL: https://news.ycombinator.com/item?id=49582582 Points: 168 # Comments: 122",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 06 Sep 2026 01:52:45 +0000",
+    "fetched_at": "2026-09-06 16:34",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "2b04cefa2c63",
+    "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+    "link": "https://cloudinabottle.org/blog/launch-post",
+    "summary": "Article URL: https://cloudinabottle.org/blog/launch-post Comments URL: https://news.ycombinator.com/item?id=49582000 Points: 360 # Comments: 162",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sun, 06 Sep 2026 00:03:29 +0000",
+    "fetched_at": "2026-09-06 16:34",
+    "date": "2026-09-06"
+  },
+  {
     "id": "b347484872e1",
     "title": "President pardons 9 for Clean Air violations for 'fixing their car'",
     "link": "https://www.msn.com/en-us/news/crime/trump-pardons-9-for-clean-air-violations-for-fixing-their-car/ar-AA27cSkT",
@@ -4612,6 +4729,222 @@
     "date": "2026-06-07"
   },
   {
+    "id": "52bcad0b7618",
+    "title": "Chrome again exempts Google from user site data settings",
+    "link": "https://lapcatsoftware.com/articles/2026/9/1.html",
+    "summary": "Article URL: https://lapcatsoftware.com/articles/2026/9/1.html Comments URL: https://news.ycombinator.com/item?id=49581870 Points: 355 # Comments: 49",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 05 Sep 2026 23:39:47 +0000",
+    "fetched_at": "2026-09-06 16:34",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "8a7e0f31a983",
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Sat, 05 Sep 2026 22:49:55 +0000",
+    "fetched_at": "2026-09-06 16:34",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "186ddda03352",
+    "title": "The revolt of the reader",
+    "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+    "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ Comments URL: https://news.ycombinator.com/item?id=49580939 Points: 326 # Comments: 128",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 05 Sep 2026 21:37:49 +0000",
+    "fetched_at": "2026-09-06 16:34",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "241bb99fc756",
+    "title": "Private German rocket makes history, reaches orbit from European soil",
+    "link": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+    "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket Comments URL: https://news.ycombinator.com/item?id=49580369 Points: 546 # Comments: 284",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 05 Sep 2026 20:31:38 +0000",
+    "fetched_at": "2026-09-06 16:34",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "2babf08e1326",
+    "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+    "link": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
+    "summary": "Article URL: https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/ Comments URL: https://news.ycombinator.com/item?id=49580329 Points: 67 # Comments: 40",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 05 Sep 2026 20:25:59 +0000",
+    "fetched_at": "2026-09-06 16:34",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "20dc0b479913",
+    "title": "LLMs as a Cognitive Virus",
+    "link": "https://arxiv.org/abs/2609.03344",
+    "summary": "Article URL: https://arxiv.org/abs/2609.03344 Comments URL: https://news.ycombinator.com/item?id=49580164 Points: 261 # Comments: 195",
+    "source": "Hacker News",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "社区热议",
+      "创业"
+    ],
+    "image": "",
+    "pub_date": "Sat, 05 Sep 2026 20:02:35 +0000",
+    "fetched_at": "2026-09-06 16:34",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "f774e48a95a8",
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Sat, 05 Sep 2026 19:35:24 +0000",
+    "fetched_at": "2026-09-06 16:34",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "669fdcb55695",
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Sat, 05 Sep 2026 18:05:27 +0000",
+    "fetched_at": "2026-09-06 16:34",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "92fcffd97c50",
+    "title": "GPT-6带火循环Transformer，阿里早已布局",
+    "link": "https://www.qbitai.com/2026/09/484726.html",
+    "summary": "手握两篇顶会论文",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 05 Sep 2026 15:07:08 +0000",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "00ae1ee56a5b",
+    "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+    "link": "https://www.qbitai.com/2026/09/484683.html",
+    "summary": "当AI开始“预演”一场暴雨",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 05 Sep 2026 14:46:15 +0000",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "509f2c6187ff",
+    "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
+    "link": "https://www.qbitai.com/2026/09/484649.html",
+    "summary": "AI直接吐出正确答案，但最关键的可能不是答案",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 05 Sep 2026 04:24:25 +0000",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "e18832939f25",
+    "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
+    "link": "https://www.qbitai.com/2026/09/484611.html",
+    "summary": "如此“反骨”的方法，具体又是怎么实现的？",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 05 Sep 2026 04:18:54 +0000",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "a9c5d8bc8d42",
+    "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+    "link": "https://www.qbitai.com/2026/09/484551.html",
+    "summary": "最后靠Harness救回来",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Sat, 05 Sep 2026 01:17:56 +0000",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
     "id": "68eaa75e92b7",
     "title": "Reflections on the Guillotine (1957)",
     "link": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
@@ -4941,6 +5274,22 @@
     "pub_date": "Sat, 01 Aug 2026 02:52:18 +0000",
     "fetched_at": "2026-08-02 15:48",
     "date": "2026-08-02"
+  },
+  {
+    "id": "e985a8c11fb3",
+    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+    "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging F",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Mon, 31 Aug 2026 18:00:00 +0000",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
   },
   {
     "id": "70b9fae892c6",
@@ -6942,6 +7291,221 @@
     "date": "2026-06-07"
   },
   {
+    "id": "f48898262d8e",
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 04 Sep 2026 23:36:14 +0000",
+    "fetched_at": "2026-09-06 16:34",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "2180a1fa6f13",
+    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 04 Sep 2026 23:15:11 +0000",
+    "fetched_at": "2026-09-06 16:34",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "e160d21430ae",
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 04 Sep 2026 21:12:11 +0000",
+    "fetched_at": "2026-09-06 16:34",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "c540530472dc",
+    "title": "Architecting memory and storage in the AI era",
+    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced inf",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Fri, 04 Sep 2026 18:39:19 +0000",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "eb999a1a327a",
+    "title": "What will Apple’s John Ternus era look like?",
+    "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 04 Sep 2026 17:18:00 +0000",
+    "fetched_at": "2026-09-06 16:34",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "718826050bb2",
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 04 Sep 2026 16:21:11 +0000",
+    "fetched_at": "2026-09-06 16:34",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "08f462902e18",
+    "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+    "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+    "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 04 Sep 2026 16:04:08 +0000",
+    "fetched_at": "2026-09-06 16:34",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "8455d4164fce",
+    "title": "Google’s Gemini Spark can now manage your Google Photos library",
+    "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+    "source": "TechCrunch AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "创业",
+      "融资"
+    ],
+    "image": "",
+    "pub_date": "Fri, 04 Sep 2026 14:47:11 +0000",
+    "fetched_at": "2026-09-06 16:34",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "16db96c97099",
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight,",
+    "source": "MIT Tech Review AI",
+    "region": "global",
+    "lang": "en",
+    "tags": [
+      "深度"
+    ],
+    "image": "",
+    "pub_date": "Fri, 04 Sep 2026 09:25:19 +0000",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "345a84528af9",
+    "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+    "link": "https://www.qbitai.com/2026/09/484547.html",
+    "summary": "国产卡跑出高品质 AI Token 生产级性能",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 04 Sep 2026 09:23:24 +0000",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "f6aa1d51c60d",
+    "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+    "link": "https://www.qbitai.com/2026/09/484437.html",
+    "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 04 Sep 2026 09:19:29 +0000",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "3594e8c5055d",
+    "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
+    "link": "https://www.qbitai.com/2026/09/484293.html",
+    "summary": "不训练模型、不调参数",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 04 Sep 2026 08:57:14 +0000",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "0a5281a7b584",
+    "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
+    "link": "https://www.qbitai.com/2026/09/484203.html",
+    "summary": "5000支队伍同台做题，写尽行业四年变化",
+    "source": "量子位",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "科技"
+    ],
+    "image": "",
+    "pub_date": "Fri, 04 Sep 2026 07:09:43 +0000",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
     "id": "eeb0f69b3cf9",
     "title": "The only AI glossary you’ll need this year",
     "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -7118,6 +7682,176 @@
     "pub_date": "Fri, 03 Jul 2026 05:24:06 +0000",
     "fetched_at": "2026-07-05 13:10",
     "date": "2026-07-05"
+  },
+  {
+    "id": "ee913023807a",
+    "title": "大模型蒸馏时代结束！Fable 5.1改写API，彻底切断蒸馏后路",
+    "link": "https://aiera.com.cn/2026/09/06/other/admin/112395/%e5%a4%a7%e6%a8%a1%e5%9e%8b%e8%92%b8%e9%a6%8f%e6%97%b6%e4%bb%a3%e7%bb%93%e6%9d%9f%ef%bc%81fable-5-1%e6%94%b9%e5%86%99api%ef%bc%8c%e5%bd%bb%e5%ba%95%e5%88%87%e6%96%ad%e8%92%b8%e9%a6%8f%e5%90%8e/",
+    "summary": "轰轰烈烈的大蒸馏时代，要结束了！ 就在9月2日，Anthropic一记重拳，直接改写了API规则，彻底切断了套壳大模型和蒸馏者的后路。",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-09-06",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "d05fe992099f",
+    "title": "给大模型「投机解码」松绑：免训练，即插即用近似验证，速度再提15%",
+    "link": "https://aiera.com.cn/2026/09/06/other/admin/112379/%e7%bb%99%e5%a4%a7%e6%a8%a1%e5%9e%8b%e3%80%8c%e6%8a%95%e6%9c%ba%e8%a7%a3%e7%a0%81%e3%80%8d%e6%9d%be%e7%bb%91%ef%bc%9a%e5%85%8d%e8%ae%ad%e7%bb%83%ef%bc%8c%e5%8d%b3%e6%8f%92%e5%8d%b3%e7%94%a8%e8%bf%91/",
+    "summary": "大语言模型「逐字蹦」式的自回归生成，是推理慢、成本高的核心瓶颈。投机解码（Speculative Decoding）让一个轻量「草稿模型」先猜好一整块字、再由大模型一次并行「批…",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-09-06",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "3b4887929779",
+    "title": "刚刚，Claude首次证明费马大定理！清华姚班大神出手了",
+    "link": "https://aiera.com.cn/2026/09/06/other/admin/112366/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e9%a6%96%e6%ac%a1%e8%af%81%e6%98%8e%e8%b4%b9%e9%a9%ac%e5%a4%a7%e5%ae%9a%e7%90%86%ef%bc%81%e6%b8%85%e5%8d%8e%e5%a7%9a%e7%8f%ad%e5%a4%a7%e7%a5%9e%e5%87%ba%e6%89%8b/",
+    "summary": "就在刚刚，数学圈又有惊人消息。 清华姚班大神带队，用Claude彻底攻克了费马大定理。 至此，AI完成了数学史上最大证明。",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-09-06",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "1fbf91fbc8c8",
+    "title": "刚刚，GPT-6 Astra全量开放！",
+    "link": "https://aiera.com.cn/2026/09/06/other/admin/112353/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-6-astra%e5%85%a8%e9%87%8f%e5%bc%80%e6%94%be%ef%bc%81/",
+    "summary": "GPT-6 Astra，全量开放了！ 就在刚刚，OpenAI 官宣，所有 Pro、Enterprise 和 Business Premium 用户，已经能在 ChatGPT W…",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-09-06",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "02e9e0ade45c",
+    "title": "「赛博义父」Tibo狂送Codex重置额度，Claude「赛博义母」也跟了！",
+    "link": "https://aiera.com.cn/2026/09/06/other/admin/112336/%e3%80%8c%e8%b5%9b%e5%8d%9a%e4%b9%89%e7%88%b6%e3%80%8dtibo%e7%8b%82%e9%80%81codex%e9%87%8d%e7%bd%ae%e9%a2%9d%e5%ba%a6%ef%bc%8cclaude%e3%80%8c%e8%b5%9b%e5%8d%9a%e4%b9%89%e6%af%8d%e3%80%8d%e4%b9%9f/",
+    "summary": "GPT-6 Astra 昨日发布，创造了前所未有的性能高峰，打穿了包括号称最难评测基准的 ARC-AGI-3 榜单——不久前各家模型还只能在这个榜单跑出个位数的成绩。",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-09-06",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "1c3e6f618b44",
+    "title": "40年前电脑，被GPT-6复活！OpenAI下一代突然曝光",
+    "link": "https://aiera.com.cn/2026/09/06/other/admin/112316/40%e5%b9%b4%e5%89%8d%e7%94%b5%e8%84%91%ef%bc%8c%e8%a2%abgpt-6%e5%a4%8d%e6%b4%bb%ef%bc%81openai%e4%b8%8b%e4%b8%80%e4%bb%a3%e7%aa%81%e7%84%b6%e6%9b%9d%e5%85%89/",
+    "summary": "GPT-6 Astra刚全量开放，X已经被它刷屏了。 翻了一圈时间线，画风大概是这样的： 有人半夜在卧室听见客厅传来人声，出去一看，是自己造的NPC在开会。",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-09-06",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "aa4c864b5962",
+    "title": "一个人，一只鼠标！他击退了3103个OpenAI智能体42天集体猛攻",
+    "link": "https://aiera.com.cn/2026/09/06/other/admin/112285/%e4%b8%80%e4%b8%aa%e4%ba%ba%ef%bc%8c%e4%b8%80%e5%8f%aa%e9%bc%a0%e6%a0%87%ef%bc%81%e4%bb%96%e5%87%bb%e9%80%80%e4%ba%863103%e4%b8%aaopenai%e6%99%ba%e8%83%bd%e4%bd%9342%e5%a4%a9%e9%9b%86%e4%bd%93/",
+    "summary": "第一晚，他删了二十五页。 第二晚，三百一十七页。 之后每晚，他都删到深夜。然而，等早上醒来打开后台，又多出了四百页。",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-09-06",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "d0a15d7cea32",
+    "title": "OpenAI产品负责人：你熬夜写的50页文档，已经不值钱了",
+    "link": "https://aiera.com.cn/2026/09/06/other/admin/112270/openai%e4%ba%a7%e5%93%81%e8%b4%9f%e8%b4%a3%e4%ba%ba%ef%bc%9a%e4%bd%a0%e7%86%ac%e5%a4%9c%e5%86%99%e7%9a%8450%e9%a1%b5%e6%96%87%e6%a1%a3%ef%bc%8c%e5%b7%b2%e7%bb%8f%e4%b8%8d%e5%80%bc%e9%92%b1%e4%ba%86/",
+    "summary": "不管你愿不愿意，你熬夜写的那份50页文档，正在急速贬值。 这不是你的锅，只怪现在的AI太能干了——几分钟就能吐出一份字数相当、同样工整、几乎挑不出什么毛病的替代品。",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-09-06",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "7ed7c2ca9596",
+    "title": "刚刚，全球最强GPT-6 Astra来了！人类进入AGI时代",
+    "link": "https://aiera.com.cn/2026/09/05/other/admin/112258/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%85%a8%e7%90%83%e6%9c%80%e5%bc%bagpt-6-astra%e6%9d%a5%e4%ba%86%ef%bc%81%e4%ba%ba%e7%b1%bb%e8%bf%9b%e5%85%a5agi%e6%97%b6%e4%bb%a3/",
+    "summary": "今天，人类正式进入AGI时代！ 就在刚刚，OpenAI重磅官宣下一代旗舰模型GPT-6 Astra。",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-09-05",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "d141800deeb8",
+    "title": "黎曼猜想推至理论边界99.55%！元代理架构AI：在思考中重塑大脑",
+    "link": "https://aiera.com.cn/2026/09/05/other/admin/112222/%e9%bb%8e%e6%9b%bc%e7%8c%9c%e6%83%b3%e6%8e%a8%e8%87%b3%e7%90%86%e8%ae%ba%e8%be%b9%e7%95%8c99-55%ef%bc%81%e5%85%83%e4%bb%a3%e7%90%86%e6%9e%b6%e6%9e%84ai%ef%bc%9a%e5%9c%a8%e6%80%9d%e8%80%83%e4%b8%ad/",
+    "summary": "当我们惊叹于大语言模型能写诗、会编程时，科学家们正面临一个更棘手的问题：如何让AI像真正的科研工作者一样，去解决那些需要数月甚至数年持续思考、且充满未知的科学难题？",
+    "source": "新智元",
+    "region": "cn",
+    "lang": "zh",
+    "tags": [
+      "产业",
+      "国产替代"
+    ],
+    "image": "",
+    "pub_date": "2026-09-05",
+    "fetched_at": "2026-09-06 16:35",
+    "date": "2026-09-06"
   },
   {
     "id": "3c308ac916f3",
